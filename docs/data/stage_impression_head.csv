@@ -1,0 +1,7 @@
+"","id","instrument","code","name","position","row","column","general","space","visibility","light"
+"1",28,"Piano","Str1","Symphonie alpestre (STRAUSS) - Configuration 1","G17",17,"G",1,4,4,4
+"2",29,"Piano","Str2","Symphonie alpestre (STRAUSS) - Configuration 2","E16",16,"E",3,4,4,4
+"3",30,"Piano","Str3","Symphonie alpestre (STRAUSS) - Configuration 3","F11",11,"F",4,4,4,4
+"4",55,"Harpe","Mah1","Symphonie n°5 (MAHLER) - Configuration 1","I12",12,"I",3,5,5,5
+"5",56,"Harpe","Mah2","Symphonie n°5 (MAHLER) - Configuration 2","I13",13,"I",3,1,1,3
+"6",58,"Harpe","Rav1","La Valse (RAVEL) - Configuration 1","J9",9,"J",3,2,3,2
