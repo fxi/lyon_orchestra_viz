@@ -13,6 +13,7 @@ const copyDataPlugin = {
 // https://vite.dev/config/
 export default defineConfig({
   plugins: [react(), copyDataPlugin],
+  base: '/lyon_orchestra_viz/',
   build: {
     outDir: 'docs'
   }

@@ -19,21 +19,22 @@ export function useCSVData() {
   useEffect(() => {
     const loadCSVFiles = async () => {
       try {
+        const base = import.meta.env.BASE_URL;
         // Load and process stage data
-        const stageImpressionResponse = await fetch('/data/stage_impression.csv');
+        const stageImpressionResponse = await fetch(`${base}data/stage_impression.csv`);
         const stageImpressionText = await stageImpressionResponse.text();
         const stageImpressionData = await parseCSV(stageImpressionText);
         
-        const stageBalanceResponse = await fetch('/data/stage_balance.csv');
+        const stageBalanceResponse = await fetch(`${base}data/stage_balance.csv`);
         const stageBalanceText = await stageBalanceResponse.text();
         const stageBalanceData = await parseCSV(stageBalanceText);
 
         // Load and process hall data
-        const hallImpressionResponse = await fetch('/data/hall_impression.csv');
+        const hallImpressionResponse = await fetch(`${base}data/hall_impression.csv`);
         const hallImpressionText = await hallImpressionResponse.text();
         const hallImpressionData = await parseCSV(hallImpressionText);
         
-        const hallBalanceResponse = await fetch('/data/hall_balance.csv');
+        const hallBalanceResponse = await fetch(`${base}data/hall_balance.csv`);
         const hallBalanceText = await hallBalanceResponse.text();
         const hallBalanceData = await parseCSV(hallBalanceText);
 
