@@ -1,0 +1,748 @@
+id,instrument,code,name,violin_1,violin_2,alto,cello,bass,flute,oboe,clarinet,bassoon,horn,trumpet,trombone,tuba,percusssion,harp,piano,column,row
+3,Piano,Moz1,Symphonie n°41 (MOZART) - Configuration 1,3,3,3,3,3,3,3,0,3,3,3,0,0,3,0,0,M,3
+4,Piano,Moz2,Symphonie n°41 (MOZART) - Configuration 2,3,3,3,3,3,3,3,0,3,3,3,0,0,3,0,0,M,3
+5,Piano,Moz3,Symphonie n°41 (MOZART) - Configuration 3,3,3,3,3,3,3,3,0,3,3,3,0,0,3,0,0,M,3
+6,Piano,Moz4,Symphonie n°41 (MOZART) - Configuration 4,3,3,3,3,3,3,3,0,3,3,3,0,0,4,0,0,M,3
+7,Piano,Bee1,Symphonie N°7 (BEETHOVEN) - Configuration 1,3,3,3,3,3,3,3,3,3,3,3,0,0,4,0,0,M,3
+8,Piano,Bee2,Symphonie N°7 (BEETHOVEN) - Configuration 2,3,3,3,3,3,3,3,3,3,3,3,0,0,3,0,0,M,3
+9,Piano,Bee3,Symphonie N°7 (BEETHOVEN) - Configuration 3,3,3,3,3,3,3,3,3,3,3,3,0,0,3,0,0,M,3
+10,Piano,Bee4,Symphonie N°7 (BEETHOVEN) - Configuration 4,3,3,3,3,3,3,3,3,3,3,3,0,0,3,0,0,M,3
+11,Piano,Sch1,Symphonie n°3 (SCHUMANN) - Configuration 1,3,3,3,3,3,3,3,3,3,3,3,0,0,3,0,0,M,3
+12,Piano,Sch2,Symphonie n°3 (SCHUMANN) - Configuration 2,3,3,3,3,3,3,3,3,3,3,3,0,0,3,0,0,M,3
+13,Piano,Sch3,Symphonie n°3 (SCHUMANN) - Configuration 3,3,3,3,3,3,3,3,3,3,3,3,0,0,3,0,0,M,3
+14,Piano,Sch4,Symphonie n°3 (SCHUMANN) - Configuration 4,3,3,3,3,3,3,3,3,3,3,3,0,0,3,0,0,M,3
+15,Piano,Bra1,Symphonie n°2 en Ré Majeur Op 73 (BRAHMS) - Configuration 1,3,3,3,3,3,3,3,3,3,3,3,3,3,3,0,0,M,3
+16,Piano,Bra2,Symphonie n°2 en Ré Majeur Op 73 (BRAHMS) - Configuration 2,3,3,3,3,3,3,3,3,3,3,3,3,3,3,0,0,M,3
+17,Piano,Bra3,Symphonie n°2 en Ré Majeur Op 73 (BRAHMS) - Configuration 3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,0,0,M,3
+18,Piano,Bra4,Symphonie n°2 en Ré Majeur Op 73 (BRAHMS) - Configuration 4,3,3,3,3,3,3,3,3,3,3,2,2,2,3,0,0,M,3
+19,Piano,Bru1,Symphonie n°7 (BRUCKNER) - Configuration 1,3,3,3,3,3,3,3,3,3,3,3,3,3,3,0,0,M,3
+20,Piano,Bru2,Symphonie n°7 (BRUCKNER) - Configuration 2,3,3,3,3,3,3,3,3,3,3,3,3,3,3,0,0,M,3
+21,Piano,Bru3,Symphonie n°7 (BRUCKNER) - Configuration 3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,0,0,M,3
+22,Piano,Bru4,Symphonie n°7 (BRUCKNER) - Configuration 4,3,3,3,3,3,3,3,3,3,3,3,3,3,4,0,0,M,3
+23,Piano,Mah1,Symphonie n°5 (MAHLER) - Configuration 1,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,0,M,3
+24,Piano,Mah2,Symphonie n°5 (MAHLER) - Configuration 2,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,0,M,3
+25,Piano,Mah3,Symphonie n°5 (MAHLER) - Configuration 3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,0,M,3
+26,Piano,Rav1,La Valse (RAVEL) - Configuration 1,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,0,M,3
+27,Piano,Rav2,La Valse (RAVEL) - Configuration 2,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,0,M,3
+31,Harpe,Moz1,Symphonie n°41 (MOZART) - Configuration 1,5,5,3,3,3,2,1,0,1,2,4,0,0,3,0,0,B,1
+32,Harpe,Moz2,Symphonie n°41 (MOZART) - Configuration 2,5,5,3,2,3,3,3,0,3,3,3,0,0,4,0,0,M,3
+33,Harpe,Moz2,Symphonie n°41 (MOZART) - Configuration 2,3,3,3,3,3,3,3,0,3,3,4,0,0,3,0,0,G,2
+34,Harpe,Moz3,Symphonie n°41 (MOZART) - Configuration 3,3,3,3,3,3,3,3,0,3,3,3,0,0,3,0,0,B,1
+35,Harpe,Moz3,Symphonie n°41 (MOZART) - Configuration 3,3,3,3,3,3,3,3,0,3,3,3,0,0,3,0,0,G,2
+36,Harpe,Moz4,Symphonie n°41 (MOZART) - Configuration 4,4,4,3,3,3,3,3,0,3,3,3,0,0,3,0,0,B,1
+37,Harpe,Moz4,Symphonie n°41 (MOZART) - Configuration 4,3,3,3,3,3,3,3,0,3,3,3,0,0,3,0,0,G,2
+38,Harpe,Bee1,Symphonie N°7 (BEETHOVEN) - Configuration 1,5,3,3,3,3,2,2,2,2,2,4,0,0,4,0,0,B,1
+39,Harpe,Bee1,Symphonie N°7 (BEETHOVEN) - Configuration 1,3,3,3,3,3,3,3,3,3,3,3,0,0,3,0,0,G,2
+40,Harpe,Bee2,Symphonie N°7 (BEETHOVEN) - Configuration 2,3,3,3,3,3,3,3,3,3,2,4,0,0,4,0,0,M,3
+41,Harpe,Bee3,Symphonie N°7 (BEETHOVEN) - Configuration 3,3,3,3,3,3,3,3,3,3,4,4,0,0,3,0,0,B,1
+42,Harpe,Bee4,Symphonie N°7 (BEETHOVEN) - Configuration 4,3,3,3,3,3,3,3,3,3,3,3,0,0,3,0,0,M,3
+43,Harpe,Sch1,Symphonie n°3 (SCHUMANN) - Configuration 1,3,3,3,3,3,3,3,3,1,5,4,0,0,3,0,0,B,1
+44,Harpe,Sch2,Symphonie n°3 (SCHUMANN) - Configuration 2,3,3,3,3,3,3,3,3,3,3,3,0,0,3,0,0,G,2
+45,Harpe,Sch3,Symphonie n°3 (SCHUMANN) - Configuration 3,3,3,3,3,3,3,3,3,3,3,3,0,0,3,0,0,G,2
+46,Harpe,Sch4,Symphonie n°3 (SCHUMANN) - Configuration 4,3,3,3,3,3,3,3,3,3,3,3,0,0,3,0,0,G,2
+47,Harpe,Bra1,Symphonie n°2 en Ré Majeur Op 73 (BRAHMS) - Configuration 1,3,3,3,3,3,3,3,3,3,3,5,3,5,3,0,0,G,2
+48,Harpe,Bra2,Symphonie n°2 en Ré Majeur Op 73 (BRAHMS) - Configuration 2,3,3,3,3,3,3,3,3,3,3,3,3,3,3,0,0,G,2
+49,Harpe,Bra3,Symphonie n°2 en Ré Majeur Op 73 (BRAHMS) - Configuration 3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,0,0,G,2
+50,Harpe,Bra4,Symphonie n°2 en Ré Majeur Op 73 (BRAHMS) - Configuration 4,3,3,3,3,3,3,3,3,3,3,3,3,3,3,0,0,G,2
+51,Harpe,Bru1,Symphonie n°7 (BRUCKNER) - Configuration 1,3,3,3,3,3,3,3,3,3,3,5,3,5,3,0,0,G,2
+52,Harpe,Bru2,Symphonie n°7 (BRUCKNER) - Configuration 2,3,3,3,3,3,3,3,3,3,3,5,5,5,3,0,0,G,2
+53,Harpe,Bru3,Symphonie n°7 (BRUCKNER) - Configuration 3,3,3,3,4,4,3,3,3,3,3,3,3,3,3,0,0,G,2
+54,Harpe,Bru4,Symphonie n°7 (BRUCKNER) - Configuration 4,3,3,3,3,3,3,3,3,3,3,5,3,3,3,0,0,G,2
+56,Harpe,Mah2,Symphonie n°5 (MAHLER) - Configuration 2,3,3,3,3,3,3,3,3,3,2,3,3,3,3,3,0,B,1
+63,Percussion,Moz1,Symphonie n°41 (MOZART) - Configuration 1,4,4,3,2,2,2,2,0,2,3,3,0,0,3,0,0,H,2
+64,Percussion,Moz2,Symphonie n°41 (MOZART) - Configuration 2,4,4,3,3,2,2,2,0,2,3,3,0,0,3,0,0,H,2
+65,Percussion,Moz3,Symphonie n°41 (MOZART) - Configuration 3,4,4,NA,2,1,3,3,0,3,3,3,0,0,3,0,0,H,2
+66,Percussion,Moz4,Symphonie n°41 (MOZART) - Configuration 4,4,4,3,2,2,3,3,0,3,3,3,0,0,3,0,0,H,2
+67,Percussion,Bee1,Symphonie N°7 (BEETHOVEN) - Configuration 1,4,4,3,3,2,3,3,3,3,3,3,0,0,4,0,0,M,3
+68,Percussion,Bee2,Symphonie N°7 (BEETHOVEN) - Configuration 2,4,5,3,2,2,3,3,2,2,4,4,0,0,4,0,0,M,3
+69,Percussion,Bee3,Symphonie N°7 (BEETHOVEN) - Configuration 3,4,4,2,2,2,3,3,3,2,4,4,0,0,5,0,0,M,3
+70,Percussion,Bee4,Symphonie N°7 (BEETHOVEN) - Configuration 4,4,4,2,2,1,3,3,3,3,3,3,0,0,5,0,0,M,3
+71,Percussion,Sch1,Symphonie n°3 (SCHUMANN) - Configuration 1,3,3,3,3,3,3,3,3,3,3,3,0,0,3,0,0,G,2
+72,Percussion,Sch2,Symphonie n°3 (SCHUMANN) - Configuration 2,5,5,2,2,2,3,3,3,2,4,3,0,0,4,0,0,G,2
+73,Percussion,Sch3,Symphonie n°3 (SCHUMANN) - Configuration 3,4,4,2,2,3,3,3,3,3,3,3,0,0,3,0,0,G,2
+74,Percussion,Sch4,Symphonie n°3 (SCHUMANN) - Configuration 4,3,3,2,2,3,3,3,3,3,3,3,0,0,3,0,0,G,2
+75,Percussion,Bra1,Symphonie n°2 en Ré Majeur Op 73 (BRAHMS) - Configuration 1,3,3,3,3,3,3,3,3,3,3,5,3,3,4,0,0,O,3
+76,Percussion,Bra2,Symphonie n°2 en Ré Majeur Op 73 (BRAHMS) - Configuration 2,4,4,3,3,2,3,3,3,3,3,3,3,3,3,0,0,O,3
+77,Percussion,Bra3,Symphonie n°2 en Ré Majeur Op 73 (BRAHMS) - Configuration 3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,0,0,O,3
+78,Percussion,Bra4,Symphonie n°2 en Ré Majeur Op 73 (BRAHMS) - Configuration 4,3,3,3,3,3,3,3,3,3,3,3,4,4,3,0,0,O,3
+79,Percussion,Bru1,Symphonie n°7 (BRUCKNER) - Configuration 1,3,3,3,3,3,3,3,3,3,3,3,3,4,3,0,0,A,1
+80,Percussion,Bru2,Symphonie n°7 (BRUCKNER) - Configuration 2,3,3,3,3,3,2,2,2,2,3,3,3,3,3,0,0,A,1
+81,Percussion,Bru3,Symphonie n°7 (BRUCKNER) - Configuration 3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,0,0,A,1
+82,Percussion,Bru4,Symphonie n°7 (BRUCKNER) - Configuration 4,3,3,3,3,3,3,3,3,3,3,3,3,3,3,0,0,A,1
+91,Percussion,Moz1,Symphonie n°41 (MOZART) - Configuration 1,4,4,3,3,3,3,3,0,2,3,4,0,0,4,0,0,B,1
+92,Percussion,Moz2,Symphonie n°41 (MOZART) - Configuration 2,4,4,2,3,3,3,3,0,3,3,4,0,0,4,0,0,B,1
+93,Percussion,Moz3,Symphonie n°41 (MOZART) - Configuration 3,4,4,3,3,3,3,3,0,3,3,4,0,0,4,0,0,B,1
+94,Percussion,Moz4,Symphonie n°41 (MOZART) - Configuration 4,3,3,2,3,2,2,3,0,2,2,4,0,0,4,0,0,B,1
+95,Percussion,Bee1,Symphonie N°7 (BEETHOVEN) - Configuration 1,3,3,2,3,2,3,3,2,2,2,4,0,0,4,0,0,M,3
+96,Percussion,Bee2,Symphonie N°7 (BEETHOVEN) - Configuration 2,3,3,3,3,3,3,3,3,3,3,3,0,0,3,0,0,M,3
+97,Percussion,Bee3,Symphonie N°7 (BEETHOVEN) - Configuration 3,4,4,3,3,2,3,3,2,3,3,3,0,0,3,0,0,M,3
+98,Percussion,Bee4,Symphonie N°7 (BEETHOVEN) - Configuration 4,3,3,3,3,3,3,3,3,3,3,4,0,0,4,0,0,M,3
+99,Percussion,Sch1,Symphonie n°3 (SCHUMANN) - Configuration 1,4,4,2,3,3,2,3,2,2,3,3,0,0,3,0,0,A,1
+100,Percussion,Sch2,Symphonie n°3 (SCHUMANN) - Configuration 2,4,4,NA,3,3,3,3,2,3,3,3,0,0,4,0,0,A,1
+101,Percussion,Sch3,Symphonie n°3 (SCHUMANN) - Configuration 3,4,4,3,3,3,2,3,2,3,3,3,0,0,3,0,0,A,1
+102,Percussion,Sch4,Symphonie n°3 (SCHUMANN) - Configuration 4,4,4,3,3,3,3,3,2,3,3,3,0,0,3,0,0,A,1
+103,Percussion,Bra1,Symphonie n°2 en Ré Majeur Op 73 (BRAHMS) - Configuration 1,4,4,3,3,3,3,3,2,2,2,4,3,3,3,0,0,G,2
+104,Percussion,Bra2,Symphonie n°2 en Ré Majeur Op 73 (BRAHMS) - Configuration 2,4,4,3,3,3,3,2,3,2,2,3,3,3,3,0,0,G,2
+105,Percussion,Bra3,Symphonie n°2 en Ré Majeur Op 73 (BRAHMS) - Configuration 3,4,4,3,3,3,3,3,2,2,2,3,3,3,3,0,0,G,2
+106,Percussion,Bra4,Symphonie n°2 en Ré Majeur Op 73 (BRAHMS) - Configuration 4,3,3,3,3,3,3,3,3,3,3,3,2,2,3,0,0,G,2
+107,Percussion,Bru1,Symphonie n°7 (BRUCKNER) - Configuration 1,4,4,3,3,3,3,3,3,3,3,3,2,3,3,0,0,M,3
+108,Percussion,Bru2,Symphonie n°7 (BRUCKNER) - Configuration 2,3,3,3,3,3,3,3,2,2,3,3,3,4,3,0,0,M,3
+109,Percussion,Bru3,Symphonie n°7 (BRUCKNER) - Configuration 3,3,3,3,3,3,3,3,2,2,3,3,3,4,3,0,0,M,3
+110,Percussion,Bru4,Symphonie n°7 (BRUCKNER) - Configuration 4,3,3,3,3,3,3,3,3,3,2,3,3,4,3,0,0,M,3
+119,Percussion,Moz1,Symphonie n°41 (MOZART) - Configuration 1,3,3,3,3,3,3,3,0,2,3,3,0,0,3,0,0,L,3
+120,Percussion,Moz2,Symphonie n°41 (MOZART) - Configuration 2,3,3,2,3,3,3,3,0,3,3,3,0,0,3,0,0,L,3
+121,Percussion,Moz3,Symphonie n°41 (MOZART) - Configuration 3,3,3,2,3,3,3,3,0,3,3,3,0,0,3,0,0,L,3
+122,Percussion,Moz4,Symphonie n°41 (MOZART) - Configuration 4,3,3,3,3,3,3,3,0,3,3,3,0,0,3,0,0,L,3
+123,Percussion,Bee1,Symphonie N°7 (BEETHOVEN) - Configuration 1,3,3,3,3,2,3,3,3,3,3,3,0,0,3,0,0,M,3
+124,Percussion,Bee2,Symphonie N°7 (BEETHOVEN) - Configuration 2,3,3,2,2,2,2,2,2,2,3,3,0,0,3,0,0,M,3
+125,Percussion,Bee3,Symphonie N°7 (BEETHOVEN) - Configuration 3,3,3,2,2,2,3,3,3,3,3,3,0,0,3,0,0,M,3
+126,Percussion,Bee4,Symphonie N°7 (BEETHOVEN) - Configuration 4,3,3,3,3,3,3,3,3,3,3,3,0,0,3,0,0,M,3
+127,Percussion,Sch1,Symphonie n°3 (SCHUMANN) - Configuration 1,3,3,3,3,3,3,3,3,3,3,3,0,0,3,0,0,G,2
+128,Percussion,Sch2,Symphonie n°3 (SCHUMANN) - Configuration 2,3,3,3,3,3,3,3,3,3,3,3,0,0,3,0,0,G,2
+129,Percussion,Sch3,Symphonie n°3 (SCHUMANN) - Configuration 3,3,3,3,3,3,3,3,3,3,3,3,0,0,3,0,0,G,2
+130,Percussion,Sch4,Symphonie n°3 (SCHUMANN) - Configuration 4,3,3,3,3,3,3,3,3,3,3,3,0,0,3,0,0,G,2
+131,Percussion,Bra1,Symphonie n°2 en Ré Majeur Op 73 (BRAHMS) - Configuration 1,3,3,3,3,3,3,3,3,3,3,3,3,3,3,0,0,O,3
+132,Percussion,Bra2,Symphonie n°2 en Ré Majeur Op 73 (BRAHMS) - Configuration 2,3,3,3,3,3,3,3,3,3,3,3,3,3,3,0,0,O,3
+133,Percussion,Bra3,Symphonie n°2 en Ré Majeur Op 73 (BRAHMS) - Configuration 3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,0,0,O,3
+134,Percussion,Bra4,Symphonie n°2 en Ré Majeur Op 73 (BRAHMS) - Configuration 4,3,3,3,3,3,3,3,3,3,3,3,3,3,3,0,0,O,3
+135,Percussion,Bru1,Symphonie n°7 (BRUCKNER) - Configuration 1,3,3,3,3,3,3,3,3,3,3,3,3,3,3,0,0,M,3
+136,Percussion,Bru2,Symphonie n°7 (BRUCKNER) - Configuration 2,3,3,3,3,2,3,3,3,3,3,4,3,3,3,0,0,M,3
+137,Percussion,Bru3,Symphonie n°7 (BRUCKNER) - Configuration 3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,0,0,M,3
+138,Percussion,Bru4,Symphonie n°7 (BRUCKNER) - Configuration 4,3,3,3,3,3,3,3,3,3,3,4,3,3,3,0,0,M,3
+140,Harpe,Moz1,Symphonie n°41 (MOZART) - Configuration 1,5,5,3,2,2,3,3,0,2,5,5,0,0,5,0,0,G,2
+141,Harpe,Moz1,Symphonie n°41 (MOZART) - Configuration 1,4,4,3,3,3,3,3,0,3,3,3,0,0,3,0,0,L,3
+146,Percussion,Str1,Symphonie alpestre (STRAUSS) - Configuration 1,3,3,3,3,3,2,2,2,2,2,2,2,2,3,3,3,B,1
+149,Percussion,Moz1,Symphonie n°41 (MOZART) - Configuration 1,4,2,3,3,3,2,2,0,2,3,3,0,0,3,0,0,B,1
+150,Percussion,Moz2,Symphonie n°41 (MOZART) - Configuration 2,3,3,3,3,3,2,2,0,2,3,3,0,0,3,0,0,B,1
+151,Percussion,Moz3,Symphonie n°41 (MOZART) - Configuration 3,4,2,3,3,2,2,2,0,2,3,3,0,0,3,0,0,B,1
+152,Percussion,Moz4,Symphonie n°41 (MOZART) - Configuration 4,3,2,3,3,2,2,2,0,2,2,3,0,0,2,0,0,B,1
+157,Percussion,Sch1,Symphonie n°3 (SCHUMANN) - Configuration 1,3,3,3,3,3,3,3,3,2,3,3,0,0,3,0,0,B,1
+158,Percussion,Sch2,Symphonie n°3 (SCHUMANN) - Configuration 2,3,3,3,3,3,3,3,3,3,4,3,0,0,3,0,0,B,1
+159,Percussion,Sch3,Symphonie n°3 (SCHUMANN) - Configuration 3,3,3,3,3,3,3,3,3,3,3,3,0,0,3,0,0,B,1
+160,Percussion,Sch4,Symphonie n°3 (SCHUMANN) - Configuration 4,3,3,3,3,3,2,2,2,2,3,3,0,0,2,0,0,B,1
+165,Percussion,Bru1,Symphonie n°7 (BRUCKNER) - Configuration 1,3,3,3,3,3,3,3,3,3,3,3,3,3,3,0,0,B,1
+166,Percussion,Bru2,Symphonie n°7 (BRUCKNER) - Configuration 2,3,3,3,3,3,3,3,3,3,3,3,3,3,3,0,0,B,1
+167,Percussion,Bru3,Symphonie n°7 (BRUCKNER) - Configuration 3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,0,0,B,1
+168,Percussion,Bru4,Symphonie n°7 (BRUCKNER) - Configuration 4,3,3,3,3,3,2,2,2,2,2,3,3,3,3,0,0,B,1
+181,Percussion,Bee1,Symphonie N°7 (BEETHOVEN) - Configuration 1,3,3,3,4,4,4,3,3,3,2,3,0,0,2,0,0,H,2
+182,Percussion,Bee2,Symphonie N°7 (BEETHOVEN) - Configuration 2,3,3,3,3,3,3,2,2,3,3,3,0,0,3,0,0,E,2
+183,Percussion,Bee2,Symphonie N°7 (BEETHOVEN) - Configuration 2,4,2,2,3,3,3,3,3,3,3,3,0,0,2,0,0,F,2
+184,Percussion,Bee3,Symphonie N°7 (BEETHOVEN) - Configuration 3,3,3,4,3,3,3,3,4,3,4,3,0,0,3,0,0,M,3
+185,Percussion,Bee4,Symphonie N°7 (BEETHOVEN) - Configuration 4,4,4,3,3,3,2,2,3,3,1,3,0,0,4,0,0,B,1
+186,Percussion,Bee4,Symphonie N°7 (BEETHOVEN) - Configuration 4,4,4,3,3,3,2,2,2,2,4,3,0,0,4,0,0,B,1
+191,Percussion,Bra1,Symphonie n°2 en Ré Majeur Op 73 (BRAHMS) - Configuration 1,3,3,3,2,2,2,3,3,3,2,3,3,2,3,0,0,B,1
+192,Percussion,Bra2,Symphonie n°2 en Ré Majeur Op 73 (BRAHMS) - Configuration 2,3,3,3,2,2,2,2,2,2,3,4,4,4,2,0,0,G,2
+193,Percussion,Bra3,Symphonie n°2 en Ré Majeur Op 73 (BRAHMS) - Configuration 3,3,3,3,3,3,2,2,2,2,3,3,3,3,2,0,0,G,2
+194,Percussion,Bra4,Symphonie n°2 en Ré Majeur Op 73 (BRAHMS) - Configuration 4,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,G,2
+207,Tuba,Moz1,Symphonie n°41 (MOZART) - Configuration 1,3,3,2,3,2,2,3,0,3,4,3,0,0,3,0,0,B,1
+208,Tuba,Moz1,Symphonie n°41 (MOZART) - Configuration 1,3,3,2,3,2,2,3,0,3,4,3,0,0,3,0,0,B,1
+209,Tuba,Moz2,Symphonie n°41 (MOZART) - Configuration 2,3,3,3,2,3,2,3,0,3,3,4,0,0,4,0,0,G,2
+210,Tuba,Moz3,Symphonie n°41 (MOZART) - Configuration 3,3,3,3,3,3,3,3,0,3,3,3,0,0,3,0,0,G,2
+211,Tuba,Moz4,Symphonie n°41 (MOZART) - Configuration 4,3,3,3,3,3,2,2,0,3,3,3,0,0,3,0,0,G,2
+212,Tuba,Bee1,Symphonie N°7 (BEETHOVEN) - Configuration 1,3,3,2,2,2,2,2,2,2,3,3,0,0,5,0,0,G,2
+213,Tuba,Bee2,Symphonie N°7 (BEETHOVEN) - Configuration 2,3,3,3,3,3,3,3,2,2,2,4,0,0,3,0,0,G,2
+214,Tuba,Bee3,Symphonie N°7 (BEETHOVEN) - Configuration 3,3,3,3,3,3,3,3,3,3,2,4,0,0,4,0,0,G,2
+215,Tuba,Bee4,Symphonie N°7 (BEETHOVEN) - Configuration 4,3,3,3,3,3,3,3,3,3,3,4,0,0,3,0,0,G,2
+216,Tuba,Sch1,Symphonie n°3 (SCHUMANN) - Configuration 1,4,4,4,4,4,2,2,3,2,3,3,0,0,3,0,0,G,2
+217,Tuba,Sch2,Symphonie n°3 (SCHUMANN) - Configuration 2,3,3,3,2,3,3,3,3,2,4,3,0,0,3,0,0,G,2
+218,Tuba,Sch3,Symphonie n°3 (SCHUMANN) - Configuration 3,3,3,3,3,3,3,3,3,3,3,3,0,0,3,0,0,G,2
+219,Tuba,Sch4,Symphonie n°3 (SCHUMANN) - Configuration 4,3,3,3,3,3,3,3,3,3,3,3,0,0,3,0,0,G,2
+236,Trombone,Moz1,Symphonie n°41 (MOZART) - Configuration 1,3,3,3,3,3,3,3,0,3,3,3,0,0,4,0,0,H,2
+237,Trombone,Moz2,Symphonie n°41 (MOZART) - Configuration 2,3,3,3,3,3,3,3,0,3,3,3,0,0,4,0,0,H,2
+238,Trombone,Moz3,Symphonie n°41 (MOZART) - Configuration 3,3,3,3,3,3,3,3,0,3,3,3,0,0,3,0,0,H,2
+239,Trombone,Moz4,Symphonie n°41 (MOZART) - Configuration 4,3,3,3,3,3,3,3,0,3,3,3,0,0,3,0,0,H,2
+240,Trombone,Bee1,Symphonie N°7 (BEETHOVEN) - Configuration 1,3,3,3,3,3,3,3,3,3,3,3,0,0,3,0,0,M,3
+241,Trombone,Bee2,Symphonie N°7 (BEETHOVEN) - Configuration 2,3,3,3,3,3,3,3,3,3,3,3,0,0,3,0,0,M,3
+242,Trombone,Bee3,Symphonie N°7 (BEETHOVEN) - Configuration 3,3,3,3,3,3,3,3,3,3,3,3,0,0,3,0,0,M,3
+243,Trombone,Bee4,Symphonie N°7 (BEETHOVEN) - Configuration 4,3,3,3,3,3,3,3,3,3,3,3,0,0,3,0,0,M,3
+244,Trombone,Sch1,Symphonie n°3 (SCHUMANN) - Configuration 1,3,3,3,3,3,3,3,3,3,2,3,0,0,3,0,0,B,1
+245,Trombone,Sch2,Symphonie n°3 (SCHUMANN) - Configuration 2,3,3,3,3,3,3,3,3,3,3,3,0,0,3,0,0,M,3
+246,Trombone,Sch3,Symphonie n°3 (SCHUMANN) - Configuration 3,3,3,3,3,3,3,3,3,3,3,3,0,0,3,0,0,M,3
+247,Trombone,Sch4,Symphonie n°3 (SCHUMANN) - Configuration 4,3,3,3,3,3,3,3,3,3,3,3,0,0,3,0,0,M,3
+259,Trombone,Rav1,La Valse (RAVEL) - Configuration 1,3,3,3,3,3,3,3,3,3,3,3,1,4,3,3,0,M,3
+260,Trombone,Rav2,La Valse (RAVEL) - Configuration 2,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,0,M,3
+264,Trombone,Moz1,Symphonie n°41 (MOZART) - Configuration 1,5,5,3,3,2,2,2,0,2,3,3,0,0,4,0,0,G,2
+265,Trombone,Moz2,Symphonie n°41 (MOZART) - Configuration 2,5,5,3,3,2,3,3,0,2,3,3,0,0,3,0,0,G,2
+266,Trombone,Moz3,Symphonie n°41 (MOZART) - Configuration 3,3,3,3,3,3,2,2,0,3,3,3,0,0,3,0,0,G,2
+267,Trombone,Moz4,Symphonie n°41 (MOZART) - Configuration 4,3,3,3,3,3,3,3,0,3,3,3,0,0,3,0,0,G,2
+268,Trombone,Bee1,Symphonie N°7 (BEETHOVEN) - Configuration 1,4,4,3,2,2,2,2,2,2,3,3,0,0,4,0,0,G,2
+269,Trombone,Bee2,Symphonie N°7 (BEETHOVEN) - Configuration 2,3,3,3,3,2,2,2,2,3,3,3,0,0,3,0,0,G,2
+270,Trombone,Bee3,Symphonie N°7 (BEETHOVEN) - Configuration 3,3,3,3,3,3,3,3,3,3,3,3,0,0,3,0,0,G,2
+271,Trombone,Bee4,Symphonie N°7 (BEETHOVEN) - Configuration 4,3,3,3,3,3,3,3,3,3,3,3,0,0,3,0,0,G,2
+272,Trombone,Sch1,Symphonie n°3 (SCHUMANN) - Configuration 1,4,4,3,3,2,2,2,2,2,4,3,0,0,3,0,0,G,2
+273,Trombone,Sch2,Symphonie n°3 (SCHUMANN) - Configuration 2,4,4,3,2,3,2,2,2,2,3,3,0,0,3,0,0,G,2
+274,Trombone,Sch3,Symphonie n°3 (SCHUMANN) - Configuration 3,4,4,3,3,3,3,3,3,3,3,3,0,0,3,0,0,G,2
+275,Trombone,Sch4,Symphonie n°3 (SCHUMANN) - Configuration 4,3,3,3,3,3,3,3,3,3,3,3,0,0,3,0,0,G,2
+284,Trombone,Mah1,Symphonie n°5 (MAHLER) - Configuration 1,4,4,3,3,3,3,3,3,3,3,3,3,3,4,3,0,G,2
+285,Trombone,Mah2,Symphonie n°5 (MAHLER) - Configuration 2,3,3,3,3,2,3,3,3,3,4,3,4,3,4,3,0,G,2
+286,Trombone,Mah3,Symphonie n°5 (MAHLER) - Configuration 3,3,3,3,3,3,3,3,3,3,3,3,3,3,4,3,0,G,2
+293,Trombone,Moz1,Symphonie n°41 (MOZART) - Configuration 1,3,3,3,2,2,3,3,0,3,3,3,0,0,3,0,0,B,1
+294,Trombone,Moz1,Symphonie n°41 (MOZART) - Configuration 1,3,3,3,2,2,3,3,0,3,3,3,0,0,3,0,0,G,2
+295,Trombone,Moz2,Symphonie n°41 (MOZART) - Configuration 2,3,3,3,3,2,3,3,0,3,3,3,0,0,3,0,0,M,3
+296,Trombone,Moz3,Symphonie n°41 (MOZART) - Configuration 3,3,3,3,3,3,3,3,0,3,3,3,0,0,3,0,0,B,1
+297,Trombone,Moz4,Symphonie n°41 (MOZART) - Configuration 4,3,3,3,3,3,3,3,NA,3,2,3,0,0,2,0,0,B,1
+298,Trombone,Moz4,Symphonie n°41 (MOZART) - Configuration 4,3,3,3,3,3,3,3,0,3,2,3,0,0,2,0,0,G,2
+299,Trombone,Bee1,Symphonie N°7 (BEETHOVEN) - Configuration 1,3,3,3,2,2,3,3,2,3,2,3,0,0,1,0,0,B,1
+300,Trombone,Bee1,Symphonie N°7 (BEETHOVEN) - Configuration 1,3,3,3,2,2,3,3,2,3,2,3,0,0,1,0,0,G,2
+301,Trombone,Bee2,Symphonie N°7 (BEETHOVEN) - Configuration 2,3,3,3,3,2,3,3,3,3,4,3,0,0,3,0,0,G,2
+302,Trombone,Bee2,Symphonie N°7 (BEETHOVEN) - Configuration 2,3,3,3,3,2,3,3,3,3,4,3,0,0,3,0,0,I,2
+303,Trombone,Bee2,Symphonie N°7 (BEETHOVEN) - Configuration 2,3,3,3,3,2,3,3,3,3,4,3,0,0,3,0,0,H,2
+304,Trombone,Bee3,Symphonie N°7 (BEETHOVEN) - Configuration 3,3,3,3,3,3,3,3,3,3,3,3,0,0,3,0,0,H,2
+305,Trombone,Bee3,Symphonie N°7 (BEETHOVEN) - Configuration 3,3,3,3,3,3,3,3,3,3,3,3,0,0,3,0,0,G,2
+306,Trombone,Bee3,Symphonie N°7 (BEETHOVEN) - Configuration 3,3,3,3,3,3,3,3,3,3,3,3,0,0,3,0,0,M,3
+307,Trombone,Bee4,Symphonie N°7 (BEETHOVEN) - Configuration 4,3,3,3,3,3,2,3,3,3,3,3,0,0,3,0,0,M,3
+308,Trombone,Bee4,Symphonie N°7 (BEETHOVEN) - Configuration 4,3,3,3,3,3,2,3,3,3,3,3,0,0,3,0,0,G,2
+309,Trombone,Sch1,Symphonie n°3 (SCHUMANN) - Configuration 1,3,3,3,3,3,3,3,3,3,3,3,0,0,3,0,0,B,1
+310,Trombone,Sch2,Symphonie n°3 (SCHUMANN) - Configuration 2,3,3,3,3,3,2,3,2,2,3,3,0,0,3,0,0,G,2
+311,Trombone,Sch2,Symphonie n°3 (SCHUMANN) - Configuration 2,3,3,3,3,3,2,3,2,2,3,3,0,0,3,0,0,M,3
+312,Trombone,Sch3,Symphonie n°3 (SCHUMANN) - Configuration 3,3,3,3,3,3,2,3,2,2,3,2,0,0,3,0,0,M,3
+313,Trombone,Sch4,Symphonie n°3 (SCHUMANN) - Configuration 4,3,3,3,3,3,2,2,2,2,3,3,0,0,3,0,0,M,3
+314,Trombone,Bra1,Symphonie n°2 en Ré Majeur Op 73 (BRAHMS) - Configuration 1,3,3,3,3,3,2,2,2,2,3,3,3,3,3,0,0,M,3
+315,Trombone,Bra1,Symphonie n°2 en Ré Majeur Op 73 (BRAHMS) - Configuration 1,3,3,3,3,3,2,2,2,2,3,3,3,3,3,0,0,G,2
+316,Trombone,Bra2,Symphonie n°2 en Ré Majeur Op 73 (BRAHMS) - Configuration 2,3,3,3,3,3,3,3,3,3,3,3,3,3,3,0,0,G,2
+317,Trombone,Bra3,Symphonie n°2 en Ré Majeur Op 73 (BRAHMS) - Configuration 3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,0,0,B,1
+318,Trombone,Bra4,Symphonie n°2 en Ré Majeur Op 73 (BRAHMS) - Configuration 4,3,3,3,3,3,3,3,3,3,3,3,3,3,3,0,0,B,1
+328,Trombone,Str1,Symphonie alpestre (STRAUSS) - Configuration 1,3,3,3,3,3,2,2,2,2,3,3,4,3,3,3,3,B,1
+329,Trombone,Str1,Symphonie alpestre (STRAUSS) - Configuration 1,3,3,3,3,3,2,2,2,2,3,3,2,3,3,3,3,G,2
+330,Trombone,Str1,Symphonie alpestre (STRAUSS) - Configuration 1,3,3,3,3,3,2,2,2,2,3,3,4,3,3,3,3,H,2
+331,Trombone,Str2,Symphonie alpestre (STRAUSS) - Configuration 2,3,3,3,3,3,2,3,2,3,3,3,3,3,3,3,3,M,3
+332,Trombone,Str3,Symphonie alpestre (STRAUSS) - Configuration 3,3,3,3,3,3,1,1,1,1,4,2,1,3,3,3,3,M,3
+333,Trombone,Moz1,Symphonie n°41 (MOZART) - Configuration 1,5,5,5,5,5,1,1,0,1,2,2,0,0,4,0,0,B,1
+334,Trombone,Moz2,Symphonie n°41 (MOZART) - Configuration 2,4,4,4,4,4,2,2,0,2,4,4,0,0,5,0,0,G,2
+335,Trombone,Moz3,Symphonie n°41 (MOZART) - Configuration 3,5,5,5,5,5,2,2,0,2,4,4,0,0,4,0,0,B,1
+337,Trombone,Bee1,Symphonie N°7 (BEETHOVEN) - Configuration 1,3,3,3,3,3,2,2,2,2,3,3,0,0,3,0,0,G,2
+338,Trombone,Bee2,Symphonie N°7 (BEETHOVEN) - Configuration 2,3,3,3,3,3,2,2,3,2,3,3,0,0,4,0,0,B,1
+339,Trombone,Bee3,Symphonie N°7 (BEETHOVEN) - Configuration 3,3,3,3,3,3,3,3,3,3,3,3,0,0,3,0,0,G,2
+340,Trombone,Bee4,Symphonie N°7 (BEETHOVEN) - Configuration 4,3,3,3,3,3,3,3,3,3,3,3,0,0,4,0,0,M,3
+341,Trombone,Sch1,Symphonie n°3 (SCHUMANN) - Configuration 1,5,5,3,3,3,2,2,2,2,3,3,0,0,4,0,0,G,2
+342,Trombone,Sch2,Symphonie n°3 (SCHUMANN) - Configuration 2,3,3,3,3,3,2,2,2,2,3,3,0,0,3,0,0,G,2
+343,Trombone,Sch3,Symphonie n°3 (SCHUMANN) - Configuration 3,3,3,3,3,3,3,3,3,3,3,3,0,0,3,0,0,M,3
+344,Trombone,Sch4,Symphonie n°3 (SCHUMANN) - Configuration 4,3,3,3,3,3,3,3,3,3,3,3,0,0,3,0,0,H,2
+349,Trombone,Bru1,Symphonie n°7 (BRUCKNER) - Configuration 1,3,3,3,3,3,2,2,2,2,3,3,3,3,3,0,0,G,2
+350,Trombone,Bru2,Symphonie n°7 (BRUCKNER) - Configuration 2,3,3,3,3,3,2,2,2,2,2,2,2,2,3,0,0,G,2
+351,Trombone,Bru3,Symphonie n°7 (BRUCKNER) - Configuration 3,3,3,3,3,3,2,2,2,2,3,3,3,3,3,0,0,M,3
+352,Trombone,Bru4,Symphonie n°7 (BRUCKNER) - Configuration 4,3,3,3,3,3,3,3,3,3,3,3,3,3,3,0,0,M,3
+365,Trompette,Bee1,Symphonie N°7 (BEETHOVEN) - Configuration 1,3,3,1,2,3,2,2,2,2,3,3,0,0,4,0,0,G,2
+366,Trompette,Bee2,Symphonie N°7 (BEETHOVEN) - Configuration 2,3,1,2,2,3,3,3,3,3,3,3,0,0,3,0,0,G,2
+367,Trompette,Bee3,Symphonie N°7 (BEETHOVEN) - Configuration 3,3,1,2,2,3,2,2,2,2,3,3,0,0,4,0,0,G,2
+368,Trompette,Bee4,Symphonie N°7 (BEETHOVEN) - Configuration 4,3,1,1,2,3,3,3,3,3,3,3,0,0,3,0,0,G,2
+373,Trompette,Bra1,Symphonie n°2 en Ré Majeur Op 73 (BRAHMS) - Configuration 1,3,3,1,2,2,2,2,1,1,3,3,3,3,3,0,0,G,2
+374,Trompette,Bra2,Symphonie n°2 en Ré Majeur Op 73 (BRAHMS) - Configuration 2,3,2,3,2,3,3,3,2,2,3,3,3,3,3,0,0,G,2
+375,Trompette,Bra3,Symphonie n°2 en Ré Majeur Op 73 (BRAHMS) - Configuration 3,3,3,3,2,3,3,3,2,2,3,3,4,4,4,0,0,G,2
+376,Trompette,Bra4,Symphonie n°2 en Ré Majeur Op 73 (BRAHMS) - Configuration 4,3,3,3,2,3,3,3,2,2,2,3,3,4,3,0,0,G,2
+389,Trompette,Moz1,Symphonie n°41 (MOZART) - Configuration 1,3,3,2,3,2,2,1,0,3,3,3,0,0,3,0,0,G,2
+390,Trompette,Moz2,Symphonie n°41 (MOZART) - Configuration 2,3,3,3,3,3,2,2,0,2,3,3,0,0,3,0,0,G,2
+391,Trompette,Moz3,Symphonie n°41 (MOZART) - Configuration 3,3,2,3,3,3,2,2,0,3,3,3,0,0,3,0,0,M,3
+392,Trompette,Moz4,Symphonie n°41 (MOZART) - Configuration 4,3,2,3,3,3,3,3,0,3,3,3,0,0,3,0,0,G,2
+393,Trompette,Moz4,Symphonie n°41 (MOZART) - Configuration 4,3,2,3,3,3,3,3,0,3,3,3,0,0,3,0,0,B,1
+394,Trompette,Moz3,Symphonie n°41 (MOZART) - Configuration 3,3,2,3,3,3,2,2,0,3,3,3,0,0,3,0,0,G,2
+399,Trompette,Sch1,Symphonie n°3 (SCHUMANN) - Configuration 1,3,3,3,3,3,2,2,2,2,3,2,0,0,3,0,0,B,1
+400,Trompette,Sch1,Symphonie n°3 (SCHUMANN) - Configuration 1,3,3,3,3,3,2,2,2,2,3,2,0,0,3,0,0,G,2
+401,Trompette,Sch2,Symphonie n°3 (SCHUMANN) - Configuration 2,3,2,3,2,3,2,2,2,3,3,3,0,0,3,0,0,G,2
+402,Trompette,Sch3,Symphonie n°3 (SCHUMANN) - Configuration 3,3,3,3,3,3,3,3,3,3,3,3,0,0,3,0,0,G,2
+403,Trompette,Sch4,Symphonie n°3 (SCHUMANN) - Configuration 4,3,3,3,3,3,3,3,3,3,3,3,0,0,3,0,0,B,1
+404,Trompette,Sch4,Symphonie n°3 (SCHUMANN) - Configuration 4,3,3,3,3,3,3,3,3,3,3,3,0,0,3,0,0,G,2
+416,Trompette,Rav1,La Valse (RAVEL) - Configuration 1,3,3,3,3,3,3,3,3,3,2,2,4,3,5,3,0,F,2
+417,Trompette,Rav2,La Valse (RAVEL) - Configuration 2,3,3,3,3,3,2,2,2,2,3,2,4,3,5,3,0,B,1
+418,Trompette,Rav2,La Valse (RAVEL) - Configuration 2,3,3,3,3,3,2,2,2,2,3,2,4,3,5,3,0,F,2
+422,Trompette,Moz1,Symphonie n°41 (MOZART) - Configuration 1,4,4,4,4,4,4,4,0,4,3,4,0,0,4,0,0,B,1
+423,Trompette,Moz2,Symphonie n°41 (MOZART) - Configuration 2,4,4,4,4,4,4,4,0,4,4,4,0,0,3,0,0,E,2
+424,Trompette,Moz3,Symphonie n°41 (MOZART) - Configuration 3,4,4,4,4,4,4,4,0,4,4,4,0,0,3,0,0,G,2
+425,Trompette,Moz4,Symphonie n°41 (MOZART) - Configuration 4,4,4,4,4,3,4,4,0,4,4,4,0,0,3,0,0,M,3
+426,Trompette,Bee1,Symphonie N°7 (BEETHOVEN) - Configuration 1,3,3,3,3,3,2,2,2,2,2,2,0,0,2,0,0,F,2
+427,Trompette,Bee2,Symphonie N°7 (BEETHOVEN) - Configuration 2,3,3,3,3,3,2,2,2,2,3,3,0,0,3,0,0,F,2
+428,Trompette,Bee3,Symphonie N°7 (BEETHOVEN) - Configuration 3,3,3,3,2,2,3,3,3,3,3,3,0,0,3,0,0,F,2
+429,Trompette,Bee4,Symphonie N°7 (BEETHOVEN) - Configuration 4,3,3,3,3,2,3,3,3,3,3,3,0,0,3,0,0,F,2
+430,Trompette,Sch4,Symphonie n°3 (SCHUMANN) - Configuration 4,3,3,3,3,3,3,3,3,3,3,3,0,0,3,0,0,G,2
+431,Trompette,Bra1,Symphonie n°2 en Ré Majeur Op 73 (BRAHMS) - Configuration 1,4,4,4,4,4,4,4,4,4,4,4,4,4,4,0,0,G,2
+432,Trompette,Bra2,Symphonie n°2 en Ré Majeur Op 73 (BRAHMS) - Configuration 2,3,3,3,3,2,3,3,3,3,2,3,3,3,2,0,0,G,2
+433,Trompette,Bra3,Symphonie n°2 en Ré Majeur Op 73 (BRAHMS) - Configuration 3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,0,0,G,2
+434,Trompette,Bra4,Symphonie n°2 en Ré Majeur Op 73 (BRAHMS) - Configuration 4,3,3,3,3,3,3,3,3,3,2,2,2,2,3,0,0,G,2
+451,Cor,Bee1,Symphonie N°7 (BEETHOVEN) - Configuration 1,5,5,2,2,2,2,2,2,2,2,4,0,0,4,0,0,B,1
+452,Cor,Bee1,Symphonie N°7 (BEETHOVEN) - Configuration 1,5,5,2,2,2,2,2,2,2,2,4,0,0,4,0,0,G,2
+453,Cor,Bee2,Symphonie N°7 (BEETHOVEN) - Configuration 2,5,2,2,2,3,3,3,2,2,2,4,0,0,3,0,0,M,3
+454,Cor,Bee2,Symphonie N°7 (BEETHOVEN) - Configuration 2,5,2,2,2,3,3,3,2,2,2,4,0,0,3,0,0,G,2
+455,Cor,Bee3,Symphonie N°7 (BEETHOVEN) - Configuration 3,3,3,3,3,3,2,2,2,2,2,4,0,0,4,0,0,H,2
+456,Cor,Bee3,Symphonie N°7 (BEETHOVEN) - Configuration 3,3,3,3,3,3,2,2,2,2,2,4,0,0,3,0,0,B,1
+457,Cor,Bee4,Symphonie N°7 (BEETHOVEN) - Configuration 4,3,3,3,3,3,2,2,2,2,3,4,0,0,4,0,0,B,1
+458,Cor,Sch1,Symphonie n°3 (SCHUMANN) - Configuration 1,3,3,3,3,3,3,3,3,3,3,3,0,0,3,0,0,B,1
+459,Cor,Sch2,Symphonie n°3 (SCHUMANN) - Configuration 2,3,3,3,3,3,3,3,3,3,3,3,0,0,3,0,0,G,2
+460,Cor,Sch3,Symphonie n°3 (SCHUMANN) - Configuration 3,3,3,3,3,2,3,3,3,3,3,3,0,0,3,0,0,G,2
+461,Cor,Sch3,Symphonie n°3 (SCHUMANN) - Configuration 3,3,3,3,3,2,3,3,3,3,3,3,0,0,3,0,0,M,3
+462,Cor,Sch4,Symphonie n°3 (SCHUMANN) - Configuration 4,3,3,3,3,3,3,3,3,3,3,3,0,0,3,0,0,M,3
+474,Cor,Rav1,La Valse (RAVEL) - Configuration 1,3,3,3,3,3,3,3,3,3,3,3,3,3,4,3,0,B,1
+475,Cor,Rav2,La Valse (RAVEL) - Configuration 2,4,4,4,4,4,2,2,2,2,2,4,4,4,5,3,0,B,1
+479,Cor,Moz1,Symphonie n°41 (MOZART) - Configuration 1,4,4,1,2,2,2,2,0,2,3,3,0,0,3,0,0,G,2
+480,Cor,Moz2,Symphonie n°41 (MOZART) - Configuration 2,3,3,3,2,3,3,3,0,3,3,3,0,0,3,0,0,G,2
+481,Cor,Moz3,Symphonie n°41 (MOZART) - Configuration 3,3,3,3,3,3,2,2,0,1,3,3,0,0,3,0,0,G,2
+482,Cor,Moz4,Symphonie n°41 (MOZART) - Configuration 4,3,3,3,3,3,3,3,0,3,3,3,0,0,3,0,0,G,2
+483,Cor,Bee1,Symphonie N°7 (BEETHOVEN) - Configuration 1,4,4,2,3,3,2,3,2,2,3,3,0,0,4,0,0,G,2
+484,Cor,Bee2,Symphonie N°7 (BEETHOVEN) - Configuration 2,3,3,3,3,3,3,3,3,3,3,3,0,0,3,0,0,G,2
+485,Cor,Bee3,Symphonie N°7 (BEETHOVEN) - Configuration 3,3,3,3,3,2,2,2,2,2,4,3,0,0,3,0,0,G,2
+486,Cor,Bee4,Symphonie N°7 (BEETHOVEN) - Configuration 4,3,3,3,3,3,3,3,3,3,3,3,0,0,4,0,0,G,2
+495,Cor,Bru1,Symphonie n°7 (BRUCKNER) - Configuration 1,4,4,3,3,3,3,3,3,3,2,3,3,4,3,0,0,G,2
+496,Cor,Bru2,Symphonie n°7 (BRUCKNER) - Configuration 2,4,4,2,3,3,3,3,3,3,3,3,3,3,3,0,0,G,2
+497,Cor,Bru3,Symphonie n°7 (BRUCKNER) - Configuration 3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,0,0,G,2
+498,Cor,Bru4,Symphonie n°7 (BRUCKNER) - Configuration 4,3,3,3,3,4,2,2,2,2,3,4,3,3,3,0,0,G,2
+499,Cor,Mah1,Symphonie n°5 (MAHLER) - Configuration 1,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,0,B,1
+500,Cor,Mah2,Symphonie n°5 (MAHLER) - Configuration 2,3,3,3,3,4,2,2,3,3,2,3,3,3,3,3,0,B,1
+501,Cor,Mah3,Symphonie n°5 (MAHLER) - Configuration 3,3,3,3,3,3,3,3,3,3,2,2,2,3,3,3,0,B,1
+511,Cor,Bee1,Symphonie N°7 (BEETHOVEN) - Configuration 1,4,4,1,2,2,2,2,2,2,2,3,0,0,3,0,0,B,1
+512,Cor,Bee1,Symphonie N°7 (BEETHOVEN) - Configuration 1,4,4,2,2,2,3,3,2,2,3,3,0,0,3,0,0,G,2
+513,Cor,Bee1,Symphonie N°7 (BEETHOVEN) - Configuration 1,3,3,3,3,3,2,2,2,3,3,3,0,0,3,0,0,O,3
+514,Cor,Bee2,Symphonie N°7 (BEETHOVEN) - Configuration 2,3,3,3,2,2,3,3,2,2,2,3,0,0,3,0,0,M,3
+515,Cor,Bee2,Symphonie N°7 (BEETHOVEN) - Configuration 2,3,3,2,3,3,3,3,2,3,2,3,0,0,4,0,0,G,2
+516,Cor,Bee2,Symphonie N°7 (BEETHOVEN) - Configuration 2,4,4,2,3,3,2,2,2,2,3,3,0,0,3,0,0,B,1
+517,Cor,Bee3,Symphonie N°7 (BEETHOVEN) - Configuration 3,5,5,3,3,2,2,2,1,2,2,2,0,0,2,0,0,B,1
+518,Cor,Bee3,Symphonie N°7 (BEETHOVEN) - Configuration 3,3,3,3,3,2,3,2,3,3,3,3,0,0,3,0,0,G,2
+519,Cor,Bee3,Symphonie N°7 (BEETHOVEN) - Configuration 3,3,3,2,2,3,3,3,3,3,4,2,0,0,2,0,0,J,2
+520,Cor,Bee4,Symphonie N°7 (BEETHOVEN) - Configuration 4,3,3,2,3,3,3,3,3,2,3,3,0,0,4,0,0,N,3
+521,Cor,Bee4,Symphonie N°7 (BEETHOVEN) - Configuration 4,4,4,3,3,3,3,3,2,2,3,3,0,0,3,0,0,G,2
+522,Cor,Bee4,Symphonie N°7 (BEETHOVEN) - Configuration 4,4,4,2,3,2,3,2,3,3,2,3,0,0,3,0,0,B,1
+523,Cor,Sch1,Symphonie n°3 (SCHUMANN) - Configuration 1,4,2,2,3,3,2,2,2,2,2,3,0,0,3,0,0,G,2
+524,Cor,Sch2,Symphonie n°3 (SCHUMANN) - Configuration 2,3,3,2,3,3,3,2,2,2,3,3,0,0,3,0,0,G,2
+525,Cor,Sch3,Symphonie n°3 (SCHUMANN) - Configuration 3,4,3,2,2,3,2,2,2,2,2,3,0,0,3,0,0,G,2
+526,Cor,Sch4,Symphonie n°3 (SCHUMANN) - Configuration 4,4,4,2,3,3,2,2,2,2,3,3,0,0,3,0,0,G,2
+538,Cor,Rav1,La Valse (RAVEL) - Configuration 1,2,2,3,3,3,2,3,2,2,2,3,3,3,4,2,0,M,3
+539,Cor,Rav2,La Valse (RAVEL) - Configuration 2,3,3,3,3,3,3,3,3,2,2,3,3,3,3,3,0,M,3
+543,Cor,Moz1,Symphonie n°41 (MOZART) - Configuration 1,4,4,3,3,1,2,2,0,2,2,3,0,0,5,0,0,I,2
+544,Cor,Moz2,Symphonie n°41 (MOZART) - Configuration 2,3,3,2,2,1,2,2,0,3,3,3,0,0,5,0,0,H,2
+545,Cor,Moz3,Symphonie n°41 (MOZART) - Configuration 3,4,4,2,3,1,2,2,0,3,3,3,0,0,5,0,0,G,2
+546,Cor,Moz4,Symphonie n°41 (MOZART) - Configuration 4,3,3,2,2,2,2,2,0,3,3,3,0,0,3,0,0,O,3
+547,Cor,Bee1,Symphonie N°7 (BEETHOVEN) - Configuration 1,4,4,2,2,2,3,3,2,2,3,3,0,0,3,0,0,N,3
+548,Cor,Bee2,Symphonie N°7 (BEETHOVEN) - Configuration 2,3,3,1,1,1,3,3,2,2,2,2,0,0,5,0,0,M,3
+549,Cor,Bee3,Symphonie N°7 (BEETHOVEN) - Configuration 3,4,4,3,3,3,2,2,2,2,4,3,0,0,5,0,0,L,3
+550,Cor,Bee4,Symphonie N°7 (BEETHOVEN) - Configuration 4,4,4,3,3,2,2,2,2,2,3,2,0,0,4,0,0,B,1
+566,Cor,Rav1,La Valse (RAVEL) - Configuration 1,4,4,2,2,1,2,2,1,2,3,4,4,2,5,1,0,B,1
+567,Cor,Rav2,La Valse (RAVEL) - Configuration 2,4,4,2,2,1,3,3,2,2,3,4,4,2,4,1,0,A,1
+571,Cor,Moz1,Symphonie n°41 (MOZART) - Configuration 1,3,3,3,3,3,3,3,0,3,3,3,0,0,3,0,0,B,1
+572,Cor,Moz2,Symphonie n°41 (MOZART) - Configuration 2,3,3,3,3,3,3,3,0,3,3,3,0,0,3,0,0,G,2
+573,Cor,Moz3,Symphonie n°41 (MOZART) - Configuration 3,4,4,4,4,4,4,4,0,4,4,4,0,0,4,0,0,L,3
+574,Cor,Moz4,Symphonie n°41 (MOZART) - Configuration 4,5,5,5,5,5,5,5,0,5,5,5,0,0,5,0,0,K,3
+575,Cor,Bee1,Symphonie N°7 (BEETHOVEN) - Configuration 1,2,2,1,2,2,2,1,1,1,1,1,0,0,2,0,0,B,1
+576,Cor,Bee2,Symphonie N°7 (BEETHOVEN) - Configuration 2,3,3,3,3,3,3,4,3,3,3,3,0,0,3,0,0,B,1
+577,Cor,Bee3,Symphonie N°7 (BEETHOVEN) - Configuration 3,4,4,4,4,4,4,4,4,4,4,4,0,0,3,0,0,G,2
+578,Cor,Bee4,Symphonie N°7 (BEETHOVEN) - Configuration 4,3,3,3,3,5,2,2,2,2,3,3,0,0,2,0,0,K,3
+579,Cor,Sch1,Symphonie n°3 (SCHUMANN) - Configuration 1,3,3,3,3,3,3,3,3,3,2,2,0,0,1,0,0,B,1
+580,Cor,Sch2,Symphonie n°3 (SCHUMANN) - Configuration 2,4,4,4,4,4,4,4,4,4,3,3,0,0,2,0,0,M,3
+581,Cor,Sch3,Symphonie n°3 (SCHUMANN) - Configuration 3,4,4,4,4,5,5,5,5,5,5,5,0,0,5,0,0,G,2
+582,Cor,Sch4,Symphonie n°3 (SCHUMANN) - Configuration 4,5,5,5,5,5,5,5,5,5,5,5,0,0,5,0,0,B,1
+583,Cor,Bra1,Symphonie n°2 en Ré Majeur Op 73 (BRAHMS) - Configuration 1,3,2,2,2,3,3,3,3,3,3,1,3,3,1,0,0,C,1
+584,Cor,Bra2,Symphonie n°2 en Ré Majeur Op 73 (BRAHMS) - Configuration 2,3,3,3,3,5,3,3,3,3,2,2,3,3,1,0,0,C,1
+585,Cor,Bra3,Symphonie n°2 en Ré Majeur Op 73 (BRAHMS) - Configuration 3,5,5,5,5,5,5,5,5,5,5,5,5,5,5,0,0,C,1
+586,Cor,Bra4,Symphonie n°2 en Ré Majeur Op 73 (BRAHMS) - Configuration 4,3,3,3,3,3,4,4,4,4,3,2,3,3,2,0,0,C,1
+599,Cor,Moz1,Symphonie n°41 (MOZART) - Configuration 1,3,3,3,3,4,3,2,0,3,3,4,0,0,4,0,0,G,2
+600,Cor,Moz2,Symphonie n°41 (MOZART) - Configuration 2,3,3,2,3,3,3,2,0,3,3,3,0,0,3,0,0,G,2
+601,Cor,Moz3,Symphonie n°41 (MOZART) - Configuration 3,3,3,2,2,2,3,2,0,3,3,3,0,0,2,0,0,G,2
+602,Cor,Moz4,Symphonie n°41 (MOZART) - Configuration 4,3,3,3,3,3,3,3,0,3,3,3,0,0,3,0,0,G,2
+611,Cor,Bra1,Symphonie n°2 en Ré Majeur Op 73 (BRAHMS) - Configuration 1,3,3,3,2,3,3,2,2,3,3,3,3,3,3,0,0,G,2
+612,Cor,Bra2,Symphonie n°2 en Ré Majeur Op 73 (BRAHMS) - Configuration 2,3,3,2,2,3,3,3,3,3,3,3,3,3,3,0,0,G,2
+613,Cor,Bra3,Symphonie n°2 en Ré Majeur Op 73 (BRAHMS) - Configuration 3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,0,0,G,2
+614,Cor,Bra4,Symphonie n°2 en Ré Majeur Op 73 (BRAHMS) - Configuration 4,3,3,3,3,3,3,3,3,3,3,3,3,3,3,0,0,G,2
+627,Cor,Moz1,Symphonie n°41 (MOZART) - Configuration 1,3,3,3,3,3,3,3,0,3,3,3,0,0,3,0,0,B,1
+628,Cor,Moz2,Symphonie n°41 (MOZART) - Configuration 2,3,3,3,3,3,3,3,0,3,3,3,0,0,3,0,0,B,1
+629,Cor,Moz3,Symphonie n°41 (MOZART) - Configuration 3,3,3,3,3,3,3,3,0,3,3,3,0,0,3,0,0,B,1
+630,Cor,Moz4,Symphonie n°41 (MOZART) - Configuration 4,3,3,3,3,3,3,3,0,3,3,3,0,0,3,0,0,B,1
+639,Cor,Bra1,Symphonie n°2 en Ré Majeur Op 73 (BRAHMS) - Configuration 1,4,4,3,3,3,3,3,3,3,2,3,3,3,3,0,0,G,2
+640,Cor,Bra2,Symphonie n°2 en Ré Majeur Op 73 (BRAHMS) - Configuration 2,3,3,3,3,3,3,3,3,3,3,3,3,3,3,0,0,G,2
+641,Cor,Bra3,Symphonie n°2 en Ré Majeur Op 73 (BRAHMS) - Configuration 3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,0,0,G,2
+642,Cor,Bra4,Symphonie n°2 en Ré Majeur Op 73 (BRAHMS) - Configuration 4,3,3,3,3,3,3,3,3,3,2,4,4,4,3,0,0,G,2
+643,Cor,Bru1,Symphonie n°7 (BRUCKNER) - Configuration 1,3,3,3,3,3,3,3,3,3,3,3,3,3,3,0,0,G,2
+644,Cor,Bru2,Symphonie n°7 (BRUCKNER) - Configuration 2,3,3,3,3,2,3,3,3,3,3,4,4,4,3,0,0,G,2
+645,Cor,Bru3,Symphonie n°7 (BRUCKNER) - Configuration 3,3,3,3,3,3,2,2,2,2,3,5,5,3,4,0,0,G,2
+646,Cor,Bru4,Symphonie n°7 (BRUCKNER) - Configuration 4,3,3,3,3,3,3,3,3,3,3,4,4,4,5,0,0,G,2
+655,Basson,Moz1,Symphonie n°41 (MOZART) - Configuration 1,5,5,4,3,3,2,2,0,2,3,4,0,0,5,0,0,B,1
+656,Basson,Moz2,Symphonie n°41 (MOZART) - Configuration 2,3,3,3,3,3,3,3,0,2,3,5,0,0,5,0,0,M,3
+657,Basson,Moz3,Symphonie n°41 (MOZART) - Configuration 3,3,3,3,3,2,3,2,0,2,3,4,0,0,5,0,0,H,2
+658,Basson,Moz4,Symphonie n°41 (MOZART) - Configuration 4,3,3,3,3,2,2,2,0,3,3,4,0,0,4,0,0,B,1
+659,Basson,Bee1,Symphonie N°7 (BEETHOVEN) - Configuration 1,5,5,3,2,3,2,3,2,2,3,5,0,0,5,0,0,B,1
+660,Basson,Bee2,Symphonie N°7 (BEETHOVEN) - Configuration 2,3,3,3,3,3,3,3,3,3,3,4,0,0,5,0,0,F,2
+661,Basson,Bee3,Symphonie N°7 (BEETHOVEN) - Configuration 3,3,3,3,3,2,3,3,3,2,3,3,0,0,5,0,0,G,2
+662,Basson,Bee4,Symphonie N°7 (BEETHOVEN) - Configuration 4,3,3,3,3,2,2,2,2,2,4,4,0,0,5,0,0,C,1
+667,Basson,Bra1,Symphonie n°2 en Ré Majeur Op 73 (BRAHMS) - Configuration 1,3,3,3,3,3,2,2,2,2,3,3,3,3,3,0,0,G,2
+668,Basson,Bra2,Symphonie n°2 en Ré Majeur Op 73 (BRAHMS) - Configuration 2,3,3,3,2,3,3,3,3,3,3,4,3,3,4,0,0,H,2
+669,Basson,Bra3,Symphonie n°2 en Ré Majeur Op 73 (BRAHMS) - Configuration 3,3,3,3,3,3,3,3,3,3,3,3,3,3,4,0,0,E,2
+670,Basson,Bra4,Symphonie n°2 en Ré Majeur Op 73 (BRAHMS) - Configuration 4,3,3,3,3,3,3,3,3,4,3,3,3,3,4,0,0,H,2
+671,Basson,Bru1,Symphonie n°7 (BRUCKNER) - Configuration 1,3,3,3,3,3,3,3,3,3,3,3,3,3,3,0,0,H,2
+672,Basson,Bru2,Symphonie n°7 (BRUCKNER) - Configuration 2,3,3,3,3,3,3,3,3,2,3,4,3,3,3,0,0,H,2
+673,Basson,Bru3,Symphonie n°7 (BRUCKNER) - Configuration 3,3,3,3,3,3,3,3,3,4,3,5,4,3,4,0,0,H,2
+674,Basson,Bru4,Symphonie n°7 (BRUCKNER) - Configuration 4,3,3,3,3,3,3,3,3,2,3,4,4,3,5,0,0,H,2
+687,Basson,Sch1,Symphonie n°3 (SCHUMANN) - Configuration 1,3,3,2,3,2,3,3,2,2,4,3,0,0,3,0,0,B,1
+688,Basson,Sch2,Symphonie n°3 (SCHUMANN) - Configuration 2,3,3,2,3,3,2,3,2,2,3,3,0,0,3,0,0,I,2
+689,Basson,Sch3,Symphonie n°3 (SCHUMANN) - Configuration 3,3,3,2,3,3,3,3,2,2,3,3,0,0,3,0,0,M,3
+690,Basson,Sch4,Symphonie n°3 (SCHUMANN) - Configuration 4,3,3,3,3,3,3,3,3,3,3,3,0,0,3,0,0,M,3
+715,Basson,Sch1,Symphonie n°3 (SCHUMANN) - Configuration 1,3,2,3,3,3,2,3,1,1,3,3,0,0,3,0,0,B,1
+716,Basson,Sch1,Symphonie n°3 (SCHUMANN) - Configuration 1,3,2,3,3,3,2,3,1,1,3,3,0,0,3,0,0,G,2
+717,Basson,Sch2,Symphonie n°3 (SCHUMANN) - Configuration 2,3,3,3,3,3,2,3,1,1,4,3,0,0,3,0,0,G,2
+718,Basson,Sch2,Symphonie n°3 (SCHUMANN) - Configuration 2,3,3,3,3,3,2,3,1,1,4,3,0,0,3,0,0,B,1
+719,Basson,Sch3,Symphonie n°3 (SCHUMANN) - Configuration 3,3,3,3,3,3,2,3,1,2,3,3,0,0,3,0,0,B,1
+720,Basson,Sch3,Symphonie n°3 (SCHUMANN) - Configuration 3,3,3,3,3,3,2,3,1,2,3,3,0,0,3,0,0,G,2
+721,Basson,Sch4,Symphonie n°3 (SCHUMANN) - Configuration 4,3,3,3,3,3,2,2,1,1,3,3,0,0,4,0,0,G,2
+722,Basson,Sch4,Symphonie n°3 (SCHUMANN) - Configuration 4,3,3,3,3,3,2,2,1,1,3,3,0,0,4,0,0,B,1
+723,Basson,Bra1,Symphonie n°2 en Ré Majeur Op 73 (BRAHMS) - Configuration 1,3,3,3,3,3,3,3,2,3,3,4,3,4,4,0,0,G,2
+724,Basson,Bra1,Symphonie n°2 en Ré Majeur Op 73 (BRAHMS) - Configuration 1,3,3,3,3,3,3,3,2,3,3,4,3,4,4,0,0,D,2
+725,Basson,Bra2,Symphonie n°2 en Ré Majeur Op 73 (BRAHMS) - Configuration 2,3,3,3,3,4,2,3,3,2,3,4,3,4,3,0,0,D,2
+726,Basson,Bra2,Symphonie n°2 en Ré Majeur Op 73 (BRAHMS) - Configuration 2,3,3,3,3,4,2,3,3,2,3,4,3,4,3,0,0,G,2
+727,Basson,Bra3,Symphonie n°2 en Ré Majeur Op 73 (BRAHMS) - Configuration 3,3,3,3,3,3,2,2,2,2,3,3,3,4,4,0,0,G,2
+728,Basson,Bra3,Symphonie n°2 en Ré Majeur Op 73 (BRAHMS) - Configuration 3,3,3,3,3,3,2,2,2,2,3,3,3,4,4,0,0,J,2
+729,Basson,Bra4,Symphonie n°2 en Ré Majeur Op 73 (BRAHMS) - Configuration 4,3,3,3,3,2,3,2,2,2,2,3,3,4,3,0,0,J,2
+730,Basson,Bra4,Symphonie n°2 en Ré Majeur Op 73 (BRAHMS) - Configuration 4,3,3,3,3,4,3,2,2,2,2,3,3,4,3,0,0,G,2
+731,Basson,Bru1,Symphonie n°7 (BRUCKNER) - Configuration 1,3,3,3,3,3,3,3,3,3,3,3,3,3,3,0,0,B,1
+732,Basson,Bru2,Symphonie n°7 (BRUCKNER) - Configuration 2,3,3,3,3,4,3,3,3,3,3,3,3,4,4,0,0,B,1
+733,Basson,Bru3,Symphonie n°7 (BRUCKNER) - Configuration 3,3,3,3,3,3,3,3,2,2,3,3,3,3,3,0,0,B,1
+734,Basson,Bru4,Symphonie n°7 (BRUCKNER) - Configuration 4,3,3,3,3,3,3,3,3,3,3,4,3,3,5,0,0,B,1
+735,Basson,Mah1,Symphonie n°5 (MAHLER) - Configuration 1,3,3,3,3,2,2,2,2,2,3,5,3,3,3,3,0,B,1
+736,Basson,Mah2,Symphonie n°5 (MAHLER) - Configuration 2,5,2,2,3,3,3,3,3,3,3,4,3,3,4,3,0,B,1
+737,Basson,Mah3,Symphonie n°5 (MAHLER) - Configuration 3,4,3,3,2,3,3,2,3,2,3,5,4,3,5,3,0,B,1
+738,Basson,Rav1,La Valse (RAVEL) - Configuration 1,2,3,3,3,3,3,3,3,3,3,4,4,3,5,3,0,B,1
+739,Basson,Rav2,La Valse (RAVEL) - Configuration 2,3,3,3,3,3,2,2,2,3,3,3,3,3,5,3,0,B,1
+743,Basson,Moz1,Symphonie n°41 (MOZART) - Configuration 1,3,3,3,3,3,3,3,0,3,3,3,0,0,3,0,0,G,2
+744,Basson,Moz1,Symphonie n°41 (MOZART) - Configuration 1,3,3,3,3,3,3,3,0,3,3,3,0,0,3,0,0,M,3
+745,Basson,Moz1,Symphonie n°41 (MOZART) - Configuration 1,4,3,3,3,3,2,2,0,2,3,3,0,0,3,0,0,B,1
+746,Basson,Moz2,Symphonie n°41 (MOZART) - Configuration 2,4,3,3,3,3,3,3,0,3,3,3,0,0,3,0,0,B,1
+747,Basson,Moz2,Symphonie n°41 (MOZART) - Configuration 2,3,3,3,3,3,3,3,0,3,3,3,0,0,3,0,0,G,2
+748,Basson,Moz2,Symphonie n°41 (MOZART) - Configuration 2,3,3,3,3,3,3,3,0,3,3,3,0,0,3,0,0,M,3
+749,Basson,Moz3,Symphonie n°41 (MOZART) - Configuration 3,3,3,3,3,3,2,2,0,2,3,3,0,0,3,0,0,B,1
+750,Basson,Moz3,Symphonie n°41 (MOZART) - Configuration 3,3,3,3,3,3,3,3,0,3,3,3,0,0,3,0,0,G,2
+751,Basson,Moz3,Symphonie n°41 (MOZART) - Configuration 3,3,3,3,3,3,3,3,0,3,3,3,0,0,3,0,0,M,3
+752,Basson,Moz4,Symphonie n°41 (MOZART) - Configuration 4,4,3,3,3,3,3,3,0,3,3,3,0,0,3,0,0,B,1
+753,Basson,Moz4,Symphonie n°41 (MOZART) - Configuration 4,3,3,3,3,3,3,3,0,3,3,3,0,0,3,0,0,G,2
+754,Basson,Moz4,Symphonie n°41 (MOZART) - Configuration 4,3,3,3,3,3,3,3,0,3,3,3,0,0,3,0,0,M,3
+755,Basson,Bee1,Symphonie N°7 (BEETHOVEN) - Configuration 1,3,3,3,3,3,2,2,2,2,3,3,0,0,3,0,0,B,1
+756,Basson,Bee1,Symphonie N°7 (BEETHOVEN) - Configuration 1,3,3,3,3,3,3,3,3,3,3,3,0,0,3,0,0,G,2
+757,Basson,Bee2,Symphonie N°7 (BEETHOVEN) - Configuration 2,3,3,3,3,3,3,3,3,3,3,3,0,0,3,0,0,G,2
+758,Basson,Bee2,Symphonie N°7 (BEETHOVEN) - Configuration 2,3,3,3,3,3,3,3,3,3,3,3,0,0,3,0,0,B,1
+759,Basson,Bee3,Symphonie N°7 (BEETHOVEN) - Configuration 3,3,3,3,3,3,3,3,3,3,3,3,0,0,3,0,0,B,1
+760,Basson,Bee3,Symphonie N°7 (BEETHOVEN) - Configuration 3,3,3,3,3,3,3,3,3,3,3,3,0,0,3,0,0,G,2
+761,Basson,Bee4,Symphonie N°7 (BEETHOVEN) - Configuration 4,3,3,3,3,3,3,3,3,3,3,3,0,0,3,0,0,G,2
+762,Basson,Bee4,Symphonie N°7 (BEETHOVEN) - Configuration 4,4,3,3,3,3,3,3,3,3,3,3,0,0,3,0,0,B,1
+783,Clarinette,Moz1,Symphonie n°41 (MOZART) - Configuration 1,4,3,3,3,3,3,2,0,2,2,4,0,0,4,0,0,B,1
+784,Clarinette,Moz1,Symphonie n°41 (MOZART) - Configuration 1,3,3,3,3,3,3,3,0,3,3,3,0,0,3,0,0,M,3
+785,Clarinette,Moz2,Symphonie n°41 (MOZART) - Configuration 2,3,3,3,2,3,3,3,0,3,2,3,0,0,3,0,0,G,2
+786,Clarinette,Moz3,Symphonie n°41 (MOZART) - Configuration 3,4,3,3,3,2,3,3,0,3,2,4,0,0,3,0,0,B,1
+787,Clarinette,Moz3,Symphonie n°41 (MOZART) - Configuration 3,3,3,3,3,3,3,3,0,3,2,3,0,0,3,0,0,G,2
+788,Clarinette,Moz4,Symphonie n°41 (MOZART) - Configuration 4,3,3,3,3,3,3,3,0,3,3,3,0,0,3,0,0,G,2
+810,Clarinette,Moz1,Symphonie n°41 (MOZART) - Configuration 1,5,3,2,2,2,3,3,0,2,3,5,0,0,3,0,0,G,2
+811,Clarinette,Moz2,Symphonie n°41 (MOZART) - Configuration 2,3,3,3,3,3,2,2,0,2,3,3,0,0,3,0,0,G,2
+812,Clarinette,Moz3,Symphonie n°41 (MOZART) - Configuration 3,3,3,3,3,3,2,2,0,2,3,4,0,0,3,0,0,G,2
+813,Clarinette,Moz4,Symphonie n°41 (MOZART) - Configuration 4,3,3,3,3,3,2,2,0,3,3,3,0,0,3,0,0,G,2
+836,Hautbois,Moz1,Symphonie n°41 (MOZART) - Configuration 1,4,3,3,3,2,2,2,0,2,3,3,0,0,3,0,0,G,2
+837,Hautbois,Moz2,Symphonie n°41 (MOZART) - Configuration 2,4,3,3,3,2,2,2,0,2,3,3,0,0,3,0,0,G,2
+838,Hautbois,Moz3,Symphonie n°41 (MOZART) - Configuration 3,4,3,3,3,3,2,2,0,2,3,3,0,0,3,0,0,G,2
+839,Hautbois,Moz4,Symphonie n°41 (MOZART) - Configuration 4,3,3,3,3,3,1,1,0,2,3,4,0,0,3,0,0,G,2
+848,Hautbois,Bra1,Symphonie n°2 en Ré Majeur Op 73 (BRAHMS) - Configuration 1,5,3,4,4,3,1,1,1,1,3,3,3,3,4,0,0,G,2
+849,Hautbois,Bra2,Symphonie n°2 en Ré Majeur Op 73 (BRAHMS) - Configuration 2,5,3,4,4,4,1,1,1,1,3,3,3,3,4,0,0,G,2
+850,Hautbois,Bra3,Symphonie n°2 en Ré Majeur Op 73 (BRAHMS) - Configuration 3,5,3,4,4,3,1,1,1,1,3,3,3,3,4,0,0,G,2
+851,Hautbois,Bra4,Symphonie n°2 en Ré Majeur Op 73 (BRAHMS) - Configuration 4,5,3,4,4,3,1,1,1,1,3,3,3,3,3,0,0,G,2
+858,Hautbois,Bee1,Symphonie N°7 (BEETHOVEN) - Configuration 1,4,3,3,3,3,3,2,2,2,2,3,0,0,4,0,0,B,1
+859,Hautbois,Bee2,Symphonie N°7 (BEETHOVEN) - Configuration 2,4,4,4,4,4,3,2,2,2,2,3,0,0,4,0,0,G,2
+860,Hautbois,Bee2,Symphonie N°7 (BEETHOVEN) - Configuration 2,4,4,4,4,4,3,2,2,2,2,3,0,0,4,0,0,L,3
+861,Hautbois,Bee3,Symphonie N°7 (BEETHOVEN) - Configuration 3,4,3,3,3,3,3,2,2,2,3,4,0,0,3,0,0,O,3
+862,Hautbois,Bee4,Symphonie N°7 (BEETHOVEN) - Configuration 4,4,3,3,3,3,2,2,2,2,3,3,0,0,5,0,0,C,1
+863,Hautbois,Sch1,Symphonie n°3 (SCHUMANN) - Configuration 1,4,4,4,4,4,2,2,2,2,3,3,0,0,3,0,0,M,3
+864,Hautbois,Sch2,Symphonie n°3 (SCHUMANN) - Configuration 2,4,3,3,3,3,2,2,2,2,3,3,0,0,3,0,0,M,3
+865,Hautbois,Sch3,Symphonie n°3 (SCHUMANN) - Configuration 3,4,4,4,4,4,3,3,3,3,4,5,0,0,4,0,0,M,3
+866,Hautbois,Sch4,Symphonie n°3 (SCHUMANN) - Configuration 4,4,3,2,2,3,1,1,1,1,4,3,0,0,3,0,0,M,3
+869,Hautbois,Bru1,Symphonie n°7 (BRUCKNER) - Configuration 1,4,3,3,3,3,3,2,2,2,3,3,3,3,3,0,0,B,1
+870,Hautbois,Bru2,Symphonie n°7 (BRUCKNER) - Configuration 2,4,3,2,3,3,3,2,2,2,3,4,3,4,2,0,0,B,1
+871,Hautbois,Bru3,Symphonie n°7 (BRUCKNER) - Configuration 3,4,3,2,3,3,2,2,2,2,3,4,3,4,3,0,0,B,1
+872,Hautbois,Bru4,Symphonie n°7 (BRUCKNER) - Configuration 4,4,3,3,3,4,3,2,2,2,2,4,3,3,3,0,0,B,1
+885,Hautbois,Sch1,Symphonie n°3 (SCHUMANN) - Configuration 1,4,4,4,4,4,3,3,3,3,3,3,0,0,3,0,0,M,3
+886,Hautbois,Sch2,Symphonie n°3 (SCHUMANN) - Configuration 2,4,4,4,4,4,3,3,3,3,3,3,0,0,3,0,0,M,3
+887,Hautbois,Sch3,Symphonie n°3 (SCHUMANN) - Configuration 3,4,4,4,4,4,2,2,2,2,2,3,0,0,2,0,0,M,3
+888,Hautbois,Sch4,Symphonie n°3 (SCHUMANN) - Configuration 4,4,4,4,4,3,1,1,3,3,3,3,0,0,3,0,0,M,3
+893,Hautbois,Bru1,Symphonie n°7 (BRUCKNER) - Configuration 1,3,3,3,3,3,3,3,3,3,3,3,3,3,3,0,0,B,1
+894,Hautbois,Bru2,Symphonie n°7 (BRUCKNER) - Configuration 2,4,3,3,3,3,2,2,3,3,2,3,3,2,3,0,0,B,1
+895,Hautbois,Bru3,Symphonie n°7 (BRUCKNER) - Configuration 3,3,3,3,3,3,2,2,2,2,3,3,3,3,3,0,0,G,2
+896,Hautbois,Bru4,Symphonie n°7 (BRUCKNER) - Configuration 4,3,3,3,3,3,1,1,2,2,3,4,3,3,3,0,0,G,2
+900,Hautbois,Rav1,La Valse (RAVEL) - Configuration 1,3,3,3,3,3,2,2,2,2,3,3,3,3,3,3,0,B,1
+901,Hautbois,Rav2,La Valse (RAVEL) - Configuration 2,3,3,3,3,3,2,2,2,2,3,3,3,3,3,3,0,B,1
+905,Flûte,Moz1,Symphonie n°41 (MOZART) - Configuration 1,3,3,2,2,1,3,3,0,3,3,3,0,0,3,0,0,B,1
+906,Flûte,Moz1,Symphonie n°41 (MOZART) - Configuration 1,3,3,3,3,3,3,3,0,3,3,3,0,0,3,0,0,G,2
+907,Flûte,Moz1,Symphonie n°41 (MOZART) - Configuration 1,3,3,3,3,3,3,3,0,3,4,4,0,0,3,0,0,M,3
+908,Flûte,Moz2,Symphonie n°41 (MOZART) - Configuration 2,3,3,3,3,3,3,3,0,3,3,3,0,0,3,0,0,M,3
+909,Flûte,Moz2,Symphonie n°41 (MOZART) - Configuration 2,3,3,1,2,1,3,3,0,3,3,3,0,0,4,0,0,G,2
+910,Flûte,Moz2,Symphonie n°41 (MOZART) - Configuration 2,4,4,4,4,4,3,3,0,3,3,3,0,0,4,0,0,B,1
+911,Flûte,Moz3,Symphonie n°41 (MOZART) - Configuration 3,3,3,3,3,3,4,4,0,4,3,3,0,0,3,0,0,B,1
+912,Flûte,Bee1,Symphonie N°7 (BEETHOVEN) - Configuration 1,3,2,3,3,3,3,3,2,2,3,3,0,0,5,0,0,M,3
+913,Flûte,Bee2,Symphonie N°7 (BEETHOVEN) - Configuration 2,3,3,3,3,3,3,3,3,3,3,3,0,0,3,0,0,M,3
+914,Flûte,Bee3,Symphonie N°7 (BEETHOVEN) - Configuration 3,3,3,3,2,2,2,2,2,3,3,3,0,0,3,0,0,M,3
+915,Flûte,Bee4,Symphonie N°7 (BEETHOVEN) - Configuration 4,3,3,3,3,3,2,2,2,2,4,5,0,0,3,0,0,M,3
+929,Flûte,Mah2,Symphonie n°5 (MAHLER) - Configuration 2,3,3,3,3,3,3,3,3,2,3,4,4,3,3,3,0,B,1
+930,Flûte,Mah3,Symphonie n°5 (MAHLER) - Configuration 3,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,0,B,1
+931,Flûte,Rav1,La Valse (RAVEL) - Configuration 1,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,0,B,1
+932,Flûte,Rav2,La Valse (RAVEL) - Configuration 2,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,0,B,1
+934,Flûte,Str2,Symphonie alpestre (STRAUSS) - Configuration 2,3,3,3,3,3,2,2,2,2,3,3,3,3,3,3,3,G,2
+935,Flûte,Str3,Symphonie alpestre (STRAUSS) - Configuration 3,3,3,3,3,3,2,2,2,2,3,3,3,3,3,3,3,G,2
+936,Flûte,Moz1,Symphonie n°41 (MOZART) - Configuration 1,3,3,2,3,3,3,2,0,3,3,3,0,0,3,0,0,G,2
+937,Flûte,Moz2,Symphonie n°41 (MOZART) - Configuration 2,3,3,3,4,4,3,3,0,3,3,3,0,0,3,0,0,G,2
+938,Flûte,Moz3,Symphonie n°41 (MOZART) - Configuration 3,3,3,3,2,2,3,3,0,3,3,4,0,0,3,0,0,M,3
+939,Flûte,Moz4,Symphonie n°41 (MOZART) - Configuration 4,3,3,3,3,3,3,3,0,3,3,3,0,0,3,0,0,G,2
+940,Flûte,Bee1,Symphonie N°7 (BEETHOVEN) - Configuration 1,4,4,4,4,4,3,3,3,2,3,3,0,0,3,0,0,G,2
+941,Flûte,Bee2,Symphonie N°7 (BEETHOVEN) - Configuration 2,4,3,3,3,3,2,2,3,3,4,4,0,0,3,0,0,G,2
+942,Flûte,Bee3,Symphonie N°7 (BEETHOVEN) - Configuration 3,4,3,3,3,3,3,2,2,2,3,4,0,0,3,0,0,G,2
+943,Flûte,Bee4,Symphonie N°7 (BEETHOVEN) - Configuration 4,3,3,3,3,3,2,2,2,2,3,3,0,0,3,0,0,G,2
+944,Flûte,Sch1,Symphonie n°3 (SCHUMANN) - Configuration 1,4,3,3,3,3,2,2,2,2,3,3,0,0,3,0,0,G,2
+945,Flûte,Sch2,Symphonie n°3 (SCHUMANN) - Configuration 2,3,3,3,3,3,3,3,3,3,3,3,0,0,3,0,0,G,2
+946,Flûte,Sch3,Symphonie n°3 (SCHUMANN) - Configuration 3,3,3,3,2,2,2,2,2,2,3,3,0,0,3,0,0,G,2
+947,Flûte,Sch4,Symphonie n°3 (SCHUMANN) - Configuration 4,3,3,3,2,2,3,3,3,2,3,3,0,0,3,0,0,G,2
+972,Flûte,Sch1,Symphonie n°3 (SCHUMANN) - Configuration 1,4,3,2,2,3,1,1,1,1,3,3,0,0,4,0,0,B,1
+973,Flûte,Sch2,Symphonie n°3 (SCHUMANN) - Configuration 2,5,3,2,4,4,2,2,2,2,4,3,0,0,3,0,0,B,1
+974,Flûte,Sch3,Symphonie n°3 (SCHUMANN) - Configuration 3,3,3,3,3,3,3,3,3,3,3,4,0,0,3,0,0,B,1
+975,Flûte,Sch4,Symphonie n°3 (SCHUMANN) - Configuration 4,3,3,3,3,3,3,3,3,3,3,4,0,0,3,0,0,G,2
+976,Flûte,Bra1,Symphonie n°2 en Ré Majeur Op 73 (BRAHMS) - Configuration 1,3,3,3,3,3,3,3,3,3,3,3,3,3,3,0,0,G,2
+977,Flûte,Bra2,Symphonie n°2 en Ré Majeur Op 73 (BRAHMS) - Configuration 2,3,3,2,2,3,3,3,3,3,3,3,3,3,3,0,0,G,2
+978,Flûte,Bra3,Symphonie n°2 en Ré Majeur Op 73 (BRAHMS) - Configuration 3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,0,0,G,2
+979,Flûte,Bra4,Symphonie n°2 en Ré Majeur Op 73 (BRAHMS) - Configuration 4,3,3,3,4,4,2,2,2,2,3,4,4,4,4,0,0,G,2
+980,Flûte,Bru1,Symphonie n°7 (BRUCKNER) - Configuration 1,3,2,3,3,3,3,3,3,2,3,3,3,3,3,0,0,G,2
+981,Flûte,Bru2,Symphonie n°7 (BRUCKNER) - Configuration 2,3,2,3,3,2,3,3,3,3,3,5,5,4,4,0,0,G,2
+982,Flûte,Bru3,Symphonie n°7 (BRUCKNER) - Configuration 3,3,3,3,3,2,3,3,3,3,3,5,5,5,4,0,0,G,2
+983,Flûte,Bru4,Symphonie n°7 (BRUCKNER) - Configuration 4,4,3,3,3,2,2,2,2,1,4,5,5,5,4,0,0,G,2
+992,Contrebasse,Moz1,Symphonie n°41 (MOZART) - Configuration 1,3,3,3,3,3,3,3,0,3,3,3,0,0,3,0,0,B,1
+993,Contrebasse,Moz1,Symphonie n°41 (MOZART) - Configuration 1,3,3,3,3,3,3,3,0,3,3,3,0,0,3,0,0,G,2
+994,Contrebasse,Moz1,Symphonie n°41 (MOZART) - Configuration 1,3,3,3,3,3,3,3,0,3,3,3,0,0,3,0,0,E,2
+995,Contrebasse,Moz2,Symphonie n°41 (MOZART) - Configuration 2,3,3,3,3,3,3,3,3,3,3,3,0,0,3,0,0,M,3
+996,Contrebasse,Moz2,Symphonie n°41 (MOZART) - Configuration 2,2,2,2,2,2,3,3,0,3,3,3,0,0,3,0,0,E,2
+997,Contrebasse,Moz3,Symphonie n°41 (MOZART) - Configuration 3,3,3,3,3,3,3,3,3,3,3,3,0,0,3,0,0,B,1
+998,Contrebasse,Moz3,Symphonie n°41 (MOZART) - Configuration 3,3,3,3,3,3,3,3,0,3,3,3,0,0,3,0,0,M,3
+999,Contrebasse,Moz4,Symphonie n°41 (MOZART) - Configuration 4,3,3,3,3,3,3,3,0,3,3,3,0,0,3,0,0,B,1
+1024,Contrebasse,Moz1,Symphonie n°41 (MOZART) - Configuration 1,5,3,3,2,2,3,3,0,3,3,3,0,0,3,0,0,B,1
+1025,Contrebasse,Moz2,Symphonie n°41 (MOZART) - Configuration 2,5,3,2,3,3,3,3,0,3,2,2,0,0,3,0,0,B,1
+1026,Contrebasse,Moz2,Symphonie n°41 (MOZART) - Configuration 2,5,3,2,3,3,3,3,0,3,3,3,0,0,3,0,0,B,1
+1027,Contrebasse,Moz3,Symphonie n°41 (MOZART) - Configuration 3,4,3,3,3,4,3,3,0,3,3,3,0,0,3,0,0,B,1
+1028,Contrebasse,Moz3,Symphonie n°41 (MOZART) - Configuration 3,4,3,3,3,4,3,3,0,3,3,3,0,0,3,0,0,A,1
+1029,Contrebasse,Moz4,Symphonie n°41 (MOZART) - Configuration 4,3,3,3,3,3,3,3,0,3,3,3,0,0,3,0,0,B,1
+1030,Contrebasse,Moz4,Symphonie n°41 (MOZART) - Configuration 4,3,3,3,3,3,3,3,0,3,3,3,0,0,3,0,0,A,1
+1031,Contrebasse,Bee1,Symphonie N°7 (BEETHOVEN) - Configuration 1,3,3,3,3,3,3,3,3,3,3,3,0,0,3,0,0,E,2
+1032,Contrebasse,Bee2,Symphonie N°7 (BEETHOVEN) - Configuration 2,3,3,3,2,2,3,3,3,3,5,5,0,0,5,0,0,E,2
+1033,Contrebasse,Bee3,Symphonie N°7 (BEETHOVEN) - Configuration 3,3,3,3,2,2,3,3,3,3,3,3,0,0,3,0,0,E,2
+1034,Contrebasse,Bee4,Symphonie N°7 (BEETHOVEN) - Configuration 4,3,3,3,2,2,3,3,3,3,4,3,0,0,3,0,0,E,2
+1080,Contrebasse,Str1,Symphonie alpestre (STRAUSS) - Configuration 1,3,3,3,3,2,3,3,3,3,3,3,3,3,3,3,2,G,2
+1081,Contrebasse,Str2,Symphonie alpestre (STRAUSS) - Configuration 2,3,3,3,3,4,2,2,2,2,4,4,4,4,3,3,2,G,2
+1083,Contrebasse,Moz1,Symphonie n°41 (MOZART) - Configuration 1,5,5,4,3,2,3,3,0,3,3,4,0,0,5,0,0,G,2
+1084,Contrebasse,Moz2,Symphonie n°41 (MOZART) - Configuration 2,5,5,4,3,2,3,3,0,2,3,2,0,0,5,0,0,G,2
+1085,Contrebasse,Moz3,Symphonie n°41 (MOZART) - Configuration 3,3,3,3,3,3,3,3,0,3,3,3,0,0,4,0,0,G,2
+1086,Contrebasse,Moz4,Symphonie n°41 (MOZART) - Configuration 4,3,3,3,3,2,3,3,0,3,3,4,0,0,4,0,0,G,2
+1087,Contrebasse,Sch1,Symphonie n°3 (SCHUMANN) - Configuration 1,5,5,3,2,2,3,3,3,3,3,3,0,0,4,0,0,G,2
+1088,Contrebasse,Sch2,Symphonie n°3 (SCHUMANN) - Configuration 2,5,5,2,2,2,2,2,2,2,3,3,0,0,3,0,0,G,2
+1089,Contrebasse,Sch3,Symphonie n°3 (SCHUMANN) - Configuration 3,5,5,2,2,2,2,2,2,2,3,4,0,0,4,0,0,G,2
+1090,Contrebasse,Sch4,Symphonie n°3 (SCHUMANN) - Configuration 4,4,3,3,3,3,3,3,3,3,3,3,0,0,4,0,0,G,2
+1095,Contrebasse,Bee1,Symphonie N°7 (BEETHOVEN) - Configuration 1,3,3,3,3,3,3,3,3,3,3,3,0,0,3,0,0,B,1
+1096,Contrebasse,Bee1,Symphonie N°7 (BEETHOVEN) - Configuration 1,3,3,3,3,3,3,3,3,3,3,3,0,0,3,0,0,I,2
+1097,Contrebasse,Bee2,Symphonie N°7 (BEETHOVEN) - Configuration 2,3,3,3,2,2,3,3,3,3,3,3,0,0,3,0,0,D,2
+1098,Contrebasse,Bee3,Symphonie N°7 (BEETHOVEN) - Configuration 3,3,3,3,2,1,3,3,3,2,3,3,0,0,2,0,0,M,3
+1099,Contrebasse,Bee4,Symphonie N°7 (BEETHOVEN) - Configuration 4,3,3,3,3,3,3,3,3,3,3,3,0,0,3,0,0,N,3
+1100,Contrebasse,Sch1,Symphonie n°3 (SCHUMANN) - Configuration 1,3,3,3,2,2,3,3,3,3,3,3,0,0,3,0,0,C,1
+1101,Contrebasse,Sch2,Symphonie n°3 (SCHUMANN) - Configuration 2,4,4,4,4,4,4,4,4,4,4,4,0,0,4,0,0,H,2
+1102,Contrebasse,Sch3,Symphonie n°3 (SCHUMANN) - Configuration 3,3,3,3,3,3,3,3,3,3,3,3,0,0,3,0,0,O,3
+1103,Contrebasse,Sch4,Symphonie n°3 (SCHUMANN) - Configuration 4,3,3,3,2,1,3,3,3,3,3,3,0,0,2,0,0,M,3
+1135,Contrebasse,Bru1,Symphonie n°7 (BRUCKNER) - Configuration 1,3,3,3,3,3,3,3,3,3,3,3,3,3,3,0,0,B,1
+1136,Contrebasse,Bru2,Symphonie n°7 (BRUCKNER) - Configuration 2,3,3,3,3,3,3,3,3,3,3,3,3,3,3,0,0,G,2
+1137,Contrebasse,Bru3,Symphonie n°7 (BRUCKNER) - Configuration 3,3,3,3,5,3,3,3,3,3,3,3,3,3,3,0,0,B,1
+1138,Contrebasse,Bru4,Symphonie n°7 (BRUCKNER) - Configuration 4,3,3,3,3,3,3,3,3,3,3,3,4,3,3,0,0,G,2
+1139,Contrebasse,Mah1,Symphonie n°5 (MAHLER) - Configuration 1,3,3,3,3,3,3,3,3,3,4,3,3,4,3,2,0,B,1
+1140,Contrebasse,Mah2,Symphonie n°5 (MAHLER) - Configuration 2,3,3,3,2,3,3,3,3,3,3,3,3,3,3,2,0,G,2
+1141,Contrebasse,Mah3,Symphonie n°5 (MAHLER) - Configuration 3,3,3,3,3,2,3,3,3,3,3,3,3,3,3,2,0,G,2
+1151,Contrebasse,Bee1,Symphonie N°7 (BEETHOVEN) - Configuration 1,4,3,3,4,4,2,3,0,0,3,4,0,0,3,0,0,H,2
+1152,Contrebasse,Bee2,Symphonie N°7 (BEETHOVEN) - Configuration 2,4,3,2,2,2,3,3,2,2,3,4,0,0,4,0,0,G,2
+1153,Contrebasse,Bee3,Symphonie N°7 (BEETHOVEN) - Configuration 3,3,3,3,3,3,3,3,2,3,3,4,0,0,3,0,0,G,2
+1154,Contrebasse,Bee4,Symphonie N°7 (BEETHOVEN) - Configuration 4,3,3,3,3,2,3,3,2,2,3,3,0,0,4,0,0,G,2
+1175,Contrebasse,Moz1,Symphonie n°41 (MOZART) - Configuration 1,3,3,3,3,2,3,3,0,3,3,3,0,0,5,0,0,E,2
+1176,Contrebasse,Moz1,Symphonie n°41 (MOZART) - Configuration 1,3,3,3,3,2,3,3,0,3,3,3,0,0,5,0,0,M,3
+1177,Contrebasse,Moz2,Symphonie n°41 (MOZART) - Configuration 2,3,3,3,3,3,3,3,0,2,3,3,0,0,4,0,0,M,3
+1178,Contrebasse,Moz2,Symphonie n°41 (MOZART) - Configuration 2,3,3,3,3,3,3,3,0,2,3,3,0,0,4,0,0,M,3
+1179,Contrebasse,Moz3,Symphonie n°41 (MOZART) - Configuration 3,3,3,3,2,3,3,3,0,3,3,3,0,0,4,0,0,E,2
+1180,Contrebasse,Moz3,Symphonie n°41 (MOZART) - Configuration 3,3,3,3,2,2,3,3,0,3,3,3,0,0,4,0,0,M,3
+1181,Contrebasse,Moz4,Symphonie n°41 (MOZART) - Configuration 4,3,3,3,3,2,3,3,0,3,3,3,0,0,4,0,0,M,3
+1182,Contrebasse,Moz4,Symphonie n°41 (MOZART) - Configuration 4,3,3,3,3,2,3,3,0,3,3,3,0,0,4,0,0,I,2
+1183,Contrebasse,Bee1,Symphonie N°7 (BEETHOVEN) - Configuration 1,4,3,2,2,4,3,3,2,2,3,3,0,0,4,0,0,G,2
+1184,Contrebasse,Bee2,Symphonie N°7 (BEETHOVEN) - Configuration 2,3,3,3,2,2,3,3,2,3,3,4,0,0,4,0,0,G,2
+1185,Contrebasse,Bee3,Symphonie N°7 (BEETHOVEN) - Configuration 3,3,3,3,3,2,3,3,3,3,3,3,0,0,3,0,0,G,2
+1186,Contrebasse,Bee4,Symphonie N°7 (BEETHOVEN) - Configuration 4,3,3,3,3,2,3,3,3,3,4,3,0,0,4,0,0,G,2
+1207,Contrebasse,Moz1,Symphonie n°41 (MOZART) - Configuration 1,3,3,3,3,2,2,2,0,2,3,3,0,0,3,0,0,A,1
+1208,Contrebasse,Moz2,Symphonie n°41 (MOZART) - Configuration 2,3,3,3,3,3,3,3,0,3,3,3,0,0,3,0,0,F,2
+1209,Contrebasse,Moz3,Symphonie n°41 (MOZART) - Configuration 3,3,3,3,2,2,3,3,0,3,3,3,0,0,3,0,0,O,3
+1210,Contrebasse,Moz4,Symphonie n°41 (MOZART) - Configuration 4,3,3,3,2,2,3,3,0,3,3,3,0,0,3,0,0,D,2
+1211,Contrebasse,Bee1,Symphonie N°7 (BEETHOVEN) - Configuration 1,3,3,3,3,3,3,3,3,3,3,3,0,0,3,0,0,F,2
+1212,Contrebasse,Bee2,Symphonie N°7 (BEETHOVEN) - Configuration 2,3,3,3,3,3,3,3,3,3,3,3,0,0,3,0,0,F,2
+1213,Contrebasse,Bee3,Symphonie N°7 (BEETHOVEN) - Configuration 3,3,3,3,3,3,3,3,3,3,3,3,0,0,3,0,0,K,3
+1214,Contrebasse,Bee4,Symphonie N°7 (BEETHOVEN) - Configuration 4,4,3,3,2,2,2,2,2,2,4,4,0,0,4,0,0,B,1
+1215,Contrebasse,Sch1,Symphonie n°3 (SCHUMANN) - Configuration 1,3,3,3,3,3,3,3,3,3,3,3,0,0,3,0,0,M,3
+1216,Contrebasse,Sch2,Symphonie n°3 (SCHUMANN) - Configuration 2,3,3,3,3,3,3,3,3,3,3,3,0,0,3,0,0,M,3
+1217,Contrebasse,Sch3,Symphonie n°3 (SCHUMANN) - Configuration 3,3,3,3,3,3,3,3,3,3,3,3,0,0,3,0,0,M,3
+1218,Contrebasse,Sch4,Symphonie n°3 (SCHUMANN) - Configuration 4,4,4,4,4,4,4,4,4,4,4,4,0,0,4,0,0,M,3
+1219,Contrebasse,Bra1,Symphonie n°2 en Ré Majeur Op 73 (BRAHMS) - Configuration 1,3,3,3,3,3,3,3,3,3,3,3,3,3,3,0,0,M,3
+1220,Contrebasse,Bra2,Symphonie n°2 en Ré Majeur Op 73 (BRAHMS) - Configuration 2,3,3,3,3,3,3,3,3,3,3,3,3,3,3,0,0,M,3
+1221,Contrebasse,Bra3,Symphonie n°2 en Ré Majeur Op 73 (BRAHMS) - Configuration 3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,0,0,M,3
+1222,Contrebasse,Bra4,Symphonie n°2 en Ré Majeur Op 73 (BRAHMS) - Configuration 4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,0,0,M,3
+1230,Contrebasse,Rav1,La Valse (RAVEL) - Configuration 1,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,0,L,3
+1231,Contrebasse,Rav2,La Valse (RAVEL) - Configuration 2,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,0,H,2
+1344,Violoncelle,Moz1,Symphonie n°41 (MOZART) - Configuration 1,3,3,2,2,2,3,3,0,3,3,3,0,0,4,0,0,B,1
+1345,Violoncelle,Moz2,Symphonie n°41 (MOZART) - Configuration 2,3,3,2,2,2,3,3,0,3,3,3,0,0,3,0,0,M,3
+1346,Violoncelle,Moz3,Symphonie n°41 (MOZART) - Configuration 3,3,3,3,3,2,3,3,0,3,3,3,0,0,3,0,0,L,3
+1347,Violoncelle,Moz4,Symphonie n°41 (MOZART) - Configuration 4,4,3,2,2,2,3,3,0,3,3,3,0,0,3,0,0,B,1
+1359,Violoncelle,Bru1,Symphonie n°7 (BRUCKNER) - Configuration 1,3,3,3,3,3,3,3,3,3,3,3,3,3,3,0,0,M,3
+1360,Violoncelle,Bru2,Symphonie n°7 (BRUCKNER) - Configuration 2,3,3,3,3,3,3,3,3,3,3,5,5,3,3,0,0,M,3
+1361,Violoncelle,Bru3,Symphonie n°7 (BRUCKNER) - Configuration 3,3,3,3,3,3,3,3,3,3,3,3,5,3,3,0,0,M,3
+1362,Violoncelle,Bru4,Symphonie n°7 (BRUCKNER) - Configuration 4,3,3,3,3,3,3,3,3,3,3,5,5,3,3,0,0,M,3
+1366,Violoncelle,Rav1,La Valse (RAVEL) - Configuration 1,3,3,3,3,3,3,3,3,3,3,4,5,4,3,3,0,G,2
+1367,Violoncelle,Rav2,La Valse (RAVEL) - Configuration 2,3,3,2,1,1,3,3,3,3,3,5,5,4,3,3,0,G,2
+1368,Violoncelle,Str1,Symphonie alpestre (STRAUSS) - Configuration 1,3,3,3,3,3,3,3,3,3,3,5,5,3,3,3,3,M,3
+1369,Violoncelle,Str2,Symphonie alpestre (STRAUSS) - Configuration 2,3,3,3,3,3,3,3,3,3,3,5,5,4,3,3,3,M,3
+1374,Violoncelle,Bee1,Symphonie N°7 (BEETHOVEN) - Configuration 1,3,3,2,3,2,4,3,3,3,4,4,0,0,5,0,0,G,2
+1375,Violoncelle,Bee1,Symphonie N°7 (BEETHOVEN) - Configuration 1,3,3,2,3,3,3,3,3,3,3,3,0,0,3,0,0,L,3
+1376,Violoncelle,Bee2,Symphonie N°7 (BEETHOVEN) - Configuration 2,3,3,3,3,3,3,3,3,3,3,3,0,0,3,0,0,M,3
+1377,Violoncelle,Bee2,Symphonie N°7 (BEETHOVEN) - Configuration 2,3,3,3,3,3,3,3,3,3,3,3,0,0,3,0,0,I,2
+1378,Violoncelle,Bee3,Symphonie N°7 (BEETHOVEN) - Configuration 3,3,3,3,3,2,3,3,2,2,4,3,0,0,4,0,0,I,2
+1379,Violoncelle,Bee3,Symphonie N°7 (BEETHOVEN) - Configuration 3,3,3,3,3,3,3,3,3,3,3,3,0,0,3,0,0,B,1
+1380,Violoncelle,Bee4,Symphonie N°7 (BEETHOVEN) - Configuration 4,3,3,3,3,2,3,3,2,2,4,4,0,0,3,0,0,B,1
+1381,Violoncelle,Bee4,Symphonie N°7 (BEETHOVEN) - Configuration 4,3,3,3,3,1,3,3,2,2,4,4,0,0,3,0,0,A,1
+1382,Violoncelle,Sch1,Symphonie n°3 (SCHUMANN) - Configuration 1,4,1,3,3,3,3,3,3,3,3,3,0,0,3,0,0,M,3
+1383,Violoncelle,Sch1,Symphonie n°3 (SCHUMANN) - Configuration 1,4,2,3,3,3,3,3,3,3,3,3,0,0,3,0,0,J,2
+1384,Violoncelle,Sch2,Symphonie n°3 (SCHUMANN) - Configuration 2,3,3,3,3,3,3,3,3,3,3,3,0,0,3,0,0,G,2
+1385,Violoncelle,Sch2,Symphonie n°3 (SCHUMANN) - Configuration 2,3,2,3,3,3,3,3,3,3,3,3,0,0,3,0,0,G,2
+1386,Violoncelle,Sch3,Symphonie n°3 (SCHUMANN) - Configuration 3,4,2,3,3,3,3,3,3,3,3,3,0,0,3,0,0,G,2
+1387,Violoncelle,Sch3,Symphonie n°3 (SCHUMANN) - Configuration 3,3,3,3,3,3,3,3,3,3,3,3,0,0,3,0,0,E,2
+1388,Violoncelle,Sch4,Symphonie n°3 (SCHUMANN) - Configuration 4,3,3,3,3,3,3,3,2,1,3,3,0,0,3,0,0,B,1
+1389,Violoncelle,Bra1,Symphonie n°2 en Ré Majeur Op 73 (BRAHMS) - Configuration 1,3,1,1,2,2,3,3,3,3,3,2,3,3,3,0,0,B,1
+1390,Violoncelle,Bra2,Symphonie n°2 en Ré Majeur Op 73 (BRAHMS) - Configuration 2,3,3,3,3,3,3,3,3,3,3,3,3,3,3,0,0,B,1
+1391,Violoncelle,Bra3,Symphonie n°2 en Ré Majeur Op 73 (BRAHMS) - Configuration 3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,0,0,B,1
+1392,Violoncelle,Bra4,Symphonie n°2 en Ré Majeur Op 73 (BRAHMS) - Configuration 4,3,3,3,3,3,3,3,3,2,3,3,3,3,3,0,0,B,1
+1397,Violoncelle,Mah1,Symphonie n°5 (MAHLER) - Configuration 1,3,3,2,2,3,3,3,3,2,3,3,3,3,3,3,0,G,2
+1398,Violoncelle,Mah2,Symphonie n°5 (MAHLER) - Configuration 2,3,3,3,3,3,3,3,3,3,3,3,3,3,3,0,0,G,2
+1399,Violoncelle,Mah3,Symphonie n°5 (MAHLER) - Configuration 3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,0,0,G,2
+1412,Alto,Bee4,Symphonie N°7 (BEETHOVEN) - Configuration 4,3,1,3,1,1,2,2,1,2,3,3,0,0,3,0,0,B,1
+1461,Alto,Moz1,Symphonie n°41 (MOZART) - Configuration 1,5,3,2,3,3,2,2,0,2,2,4,0,0,4,0,0,G,2
+1462,Alto,Moz2,Symphonie n°41 (MOZART) - Configuration 2,3,3,3,3,3,3,3,0,3,2,3,0,0,4,0,0,G,2
+1463,Alto,Moz3,Symphonie n°41 (MOZART) - Configuration 3,3,3,3,3,3,3,3,0,3,3,3,0,0,3,0,0,M,3
+1464,Alto,Moz4,Symphonie n°41 (MOZART) - Configuration 4,3,3,3,3,3,3,3,0,3,3,3,0,0,3,0,0,G,2
+1465,Alto,Bee1,Symphonie N°7 (BEETHOVEN) - Configuration 1,4,1,2,2,3,3,3,3,3,3,3,0,0,3,0,0,G,2
+1466,Alto,Bee2,Symphonie N°7 (BEETHOVEN) - Configuration 2,4,2,3,3,3,3,3,3,3,3,4,0,0,5,0,0,M,3
+1467,Alto,Bee3,Symphonie N°7 (BEETHOVEN) - Configuration 3,3,3,3,3,3,3,3,3,3,3,3,0,0,3,0,0,G,2
+1468,Alto,Bee4,Symphonie N°7 (BEETHOVEN) - Configuration 4,3,3,3,3,3,3,3,3,3,3,3,0,0,3,0,0,M,3
+1469,Alto,Sch1,Symphonie n°3 (SCHUMANN) - Configuration 1,3,3,3,3,3,3,3,3,3,4,4,0,0,3,0,0,G,2
+1470,Alto,Sch2,Symphonie n°3 (SCHUMANN) - Configuration 2,4,2,2,3,3,3,3,3,3,4,4,0,0,4,0,0,M,3
+1471,Alto,Sch3,Symphonie n°3 (SCHUMANN) - Configuration 3,3,3,2,2,3,3,3,3,3,3,3,0,0,3,0,0,G,2
+1472,Alto,Sch4,Symphonie n°3 (SCHUMANN) - Configuration 4,3,3,3,3,3,3,3,3,3,3,3,0,0,3,0,0,G,2
+1473,Alto,Bra1,Symphonie n°2 en Ré Majeur Op 73 (BRAHMS) - Configuration 1,4,2,2,3,2,4,3,3,3,3,4,4,4,4,0,0,M,3
+1474,Alto,Bra2,Symphonie n°2 en Ré Majeur Op 73 (BRAHMS) - Configuration 2,3,3,3,3,3,3,3,3,3,3,4,4,3,4,0,0,M,3
+1570,Alto,Moz1,Symphonie n°41 (MOZART) - Configuration 1,3,3,1,3,3,3,3,0,3,3,3,0,0,3,0,0,B,1
+1571,Alto,Moz1,Symphonie n°41 (MOZART) - Configuration 1,3,3,2,3,3,3,3,0,3,3,3,0,0,3,0,0,G,2
+1572,Alto,Moz2,Symphonie n°41 (MOZART) - Configuration 2,4,4,5,4,4,4,4,0,4,4,4,0,0,4,0,0,G,2
+1573,Alto,Moz3,Symphonie n°41 (MOZART) - Configuration 3,3,3,5,4,1,3,3,0,3,3,3,0,0,3,0,0,G,2
+1574,Alto,Moz4,Symphonie n°41 (MOZART) - Configuration 4,4,4,5,4,4,3,3,0,3,3,3,0,0,3,0,0,G,2
+1575,Alto,Bee1,Symphonie N°7 (BEETHOVEN) - Configuration 1,3,3,1,3,3,3,3,3,3,3,3,0,0,3,0,0,G,2
+1576,Alto,Bee2,Symphonie N°7 (BEETHOVEN) - Configuration 2,3,3,5,2,2,3,3,3,3,3,3,0,0,3,0,0,G,2
+1577,Alto,Bee3,Symphonie N°7 (BEETHOVEN) - Configuration 3,3,3,5,2,2,3,3,3,3,2,2,0,0,1,0,0,G,2
+1578,Alto,Bee4,Symphonie N°7 (BEETHOVEN) - Configuration 4,3,3,4,3,3,3,3,3,3,3,3,0,0,3,0,0,G,2
+1629,Violon 2,Bee1,Symphonie N°7 (BEETHOVEN) - Configuration 1,3,3,3,3,3,3,3,3,3,3,3,0,0,3,0,0,N,3
+1630,Violon 2,Bee2,Symphonie N°7 (BEETHOVEN) - Configuration 2,3,3,2,2,3,3,2,2,2,2,2,0,0,3,0,0,N,3
+1631,Violon 2,Bee3,Symphonie N°7 (BEETHOVEN) - Configuration 3,2,3,3,2,2,2,2,2,3,2,3,0,0,2,0,0,N,3
+1632,Violon 2,Bee4,Symphonie N°7 (BEETHOVEN) - Configuration 4,2,3,3,2,2,3,2,3,2,2,3,0,0,3,0,0,N,3
+1633,Violon 2,Sch1,Symphonie n°3 (SCHUMANN) - Configuration 1,2,2,2,3,3,3,2,2,2,3,3,0,0,2,0,0,L,3
+1634,Violon 2,Sch2,Symphonie n°3 (SCHUMANN) - Configuration 2,3,3,3,3,3,3,3,3,3,3,3,0,0,3,0,0,L,3
+1635,Violon 2,Sch3,Symphonie n°3 (SCHUMANN) - Configuration 3,2,2,2,2,3,2,3,2,2,3,3,0,0,3,0,0,L,3
+1636,Violon 2,Sch4,Symphonie n°3 (SCHUMANN) - Configuration 4,2,2,2,2,3,2,3,2,2,4,3,0,0,3,0,0,L,3
+1646,Violon 2,Mah2,Symphonie n°5 (MAHLER) - Configuration 2,3,3,3,3,3,3,3,3,3,3,3,3,2,3,3,0,L,3
+1647,Violon 2,Mah3,Symphonie n°5 (MAHLER) - Configuration 3,2,2,2,3,2,3,2,NA,2,3,3,3,2,3,2,0,L,3
+1653,Violon 2,Moz1,Symphonie n°41 (MOZART) - Configuration 1,3,3,3,3,3,3,3,0,3,3,3,0,0,3,0,0,O,3
+1654,Violon 2,Moz2,Symphonie n°41 (MOZART) - Configuration 2,3,3,3,3,3,3,3,0,3,3,3,0,0,3,0,0,O,3
+1655,Violon 2,Moz3,Symphonie n°41 (MOZART) - Configuration 3,3,3,2,3,3,3,3,0,3,3,3,0,0,3,0,0,O,3
+1656,Violon 2,Moz4,Symphonie n°41 (MOZART) - Configuration 4,3,3,2,3,2,3,3,0,2,3,3,0,0,3,0,0,O,3
+1676,Violon 2,Rav1,La Valse (RAVEL) - Configuration 1,3,3,3,3,3,3,3,2,2,3,4,4,3,5,3,0,N,3
+1677,Violon 2,Rav2,La Valse (RAVEL) - Configuration 2,3,3,3,2,3,3,3,3,3,3,3,3,3,5,3,0,N,3
+1681,Violon 2,Moz1,Symphonie n°41 (MOZART) - Configuration 1,4,2,2,3,3,3,3,0,3,3,3,0,0,3,0,0,B,1
+1682,Violon 2,Moz2,Symphonie n°41 (MOZART) - Configuration 2,4,2,2,2,2,2,2,0,3,3,4,0,0,4,0,0,F,2
+1683,Violon 2,Moz3,Symphonie n°41 (MOZART) - Configuration 3,3,3,3,3,3,3,3,0,3,3,3,0,0,3,0,0,M,3
+1684,Violon 2,Moz4,Symphonie n°41 (MOZART) - Configuration 4,3,3,3,3,3,2,2,0,3,3,3,0,0,3,0,0,B,1
+1709,Violon 2,Moz1,Symphonie n°41 (MOZART) - Configuration 1,4,3,3,3,3,3,3,0,3,3,3,0,0,4,0,0,B,1
+1710,Violon 2,Moz1,Symphonie n°41 (MOZART) - Configuration 1,4,2,3,3,3,2,2,0,2,3,3,0,0,4,0,0,G,2
+1711,Violon 2,Moz1,Symphonie n°41 (MOZART) - Configuration 1,4,3,3,3,3,3,3,0,3,3,3,0,0,4,0,0,L,3
+1712,Violon 2,Moz2,Symphonie n°41 (MOZART) - Configuration 2,4,3,3,3,3,3,3,0,2,3,3,0,0,4,0,0,E,2
+1713,Violon 2,Moz3,Symphonie n°41 (MOZART) - Configuration 3,4,3,2,3,3,3,3,0,3,3,3,0,0,4,0,0,A,1
+1714,Violon 2,Moz3,Symphonie n°41 (MOZART) - Configuration 3,4,3,2,3,3,3,3,0,3,3,3,0,0,4,0,0,G,2
+1715,Violon 2,Moz3,Symphonie n°41 (MOZART) - Configuration 3,4,3,3,3,3,3,3,0,3,3,3,0,0,4,0,0,K,3
+1716,Violon 2,Moz4,Symphonie n°41 (MOZART) - Configuration 4,4,2,2,3,3,2,2,0,3,3,3,0,0,4,0,0,K,3
+1717,Violon 2,Moz4,Symphonie n°41 (MOZART) - Configuration 4,4,3,3,3,3,3,3,0,3,3,3,0,0,4,0,0,G,2
+1718,Violon 2,Moz4,Symphonie n°41 (MOZART) - Configuration 4,4,3,3,3,3,2,3,0,3,3,3,0,0,4,0,0,B,1
+1736,Violon 2,Bee1,Symphonie N°7 (BEETHOVEN) - Configuration 1,5,3,4,4,1,2,2,1,1,2,3,0,0,5,0,0,B,1
+1737,Violon 2,Bee2,Symphonie N°7 (BEETHOVEN) - Configuration 2,4,4,2,2,2,3,3,2,2,3,3,0,0,4,0,0,G,2
+1738,Violon 2,Bee3,Symphonie N°7 (BEETHOVEN) - Configuration 3,3,3,2,3,2,3,3,2,3,3,3,0,0,3,0,0,M,3
+1739,Violon 2,Bee4,Symphonie N°7 (BEETHOVEN) - Configuration 4,3,3,2,2,2,3,3,2,3,4,3,0,0,3,0,0,J,2
+1757,Violon 2,Str1,Symphonie alpestre (STRAUSS) - Configuration 1,4,2,2,3,3,3,3,2,3,3,3,3,3,3,3,3,B,1
+1824,Violon 1,Sch1,Symphonie n°3 (SCHUMANN) - Configuration 1,3,2,2,2,4,2,3,2,2,2,3,0,0,4,0,0,B,1
+1825,Violon 1,Sch2,Symphonie n°3 (SCHUMANN) - Configuration 2,3,3,2,3,3,3,3,3,3,3,3,0,0,3,0,0,B,1
+1826,Violon 1,Sch3,Symphonie n°3 (SCHUMANN) - Configuration 3,3,3,2,2,1,2,2,2,2,3,2,0,0,3,0,0,B,1
+1827,Violon 1,Sch4,Symphonie n°3 (SCHUMANN) - Configuration 4,3,3,3,3,3,3,3,3,3,3,3,0,0,3,0,0,B,1
+1838,Violon 1,Mah3,Symphonie n°5 (MAHLER) - Configuration 3,3,3,3,3,3,3,2,2,2,3,3,4,4,3,3,0,B,1
+1843,Violon 1,Str3,Symphonie alpestre (STRAUSS) - Configuration 3,3,3,3,3,3,3,3,3,3,3,4,4,4,4,3,3,B,1
+1865,Violon 1,Mah2,Symphonie n°5 (MAHLER) - Configuration 2,4,2,3,3,3,3,3,3,3,3,3,3,3,3,2,0,B,1
+1866,Violon 1,Mah3,Symphonie n°5 (MAHLER) - Configuration 3,3,3,3,3,3,3,3,3,3,2,2,2,2,3,3,0,B,1
+1873,Violon 1,Bee1,Symphonie N°7 (BEETHOVEN) - Configuration 1,3,2,2,3,3,3,3,2,2,3,3,0,0,4,0,0,B,1
+1874,Violon 1,Bee2,Symphonie N°7 (BEETHOVEN) - Configuration 2,3,3,3,3,3,3,3,3,2,3,3,0,0,4,0,0,F,2
+1875,Violon 1,Bee3,Symphonie N°7 (BEETHOVEN) - Configuration 3,3,3,3,3,2,3,3,2,2,3,3,0,0,3,0,0,M,3
+1876,Violon 1,Bee4,Symphonie N°7 (BEETHOVEN) - Configuration 4,3,3,3,3,3,3,3,2,2,3,4,0,0,3,0,0,A,1
+1900,Violon 1,Bee1,Symphonie N°7 (BEETHOVEN) - Configuration 1,3,3,3,3,3,3,3,3,3,3,3,0,0,3,0,0,B,1
+1901,Violon 1,Bee2,Symphonie N°7 (BEETHOVEN) - Configuration 2,3,3,3,3,3,3,3,3,3,3,3,0,0,3,0,0,M,3
+1903,Violon 1,Bee4,Symphonie N°7 (BEETHOVEN) - Configuration 4,3,3,3,3,3,3,3,3,3,3,3,0,0,3,0,0,N,3
+1931,Violon 1,Sch1,Symphonie n°3 (SCHUMANN) - Configuration 1,3,2,2,5,5,5,5,5,5,5,5,0,0,5,0,0,G,2
+1932,Violon 1,Sch2,Symphonie n°3 (SCHUMANN) - Configuration 2,5,2,2,3,4,2,2,2,2,5,3,0,0,3,0,0,G,2
+1934,Violon 1,Sch4,Symphonie n°3 (SCHUMANN) - Configuration 4,3,3,3,3,3,3,3,3,3,3,3,0,0,3,0,0,G,2
+1947,Violon 2,Bee1,Symphonie N°7 (BEETHOVEN) - Configuration 1,3,3,2,2,3,3,2,2,3,3,3,0,0,3,0,0,G,2
+1948,Violon 2,Bee2,Symphonie N°7 (BEETHOVEN) - Configuration 2,3,2,3,3,3,3,3,3,3,3,3,0,0,3,0,0,G,2
+1949,Violon 2,Bee3,Symphonie N°7 (BEETHOVEN) - Configuration 3,3,3,3,3,3,3,3,3,3,3,3,0,0,3,0,0,G,2
+1950,Violon 2,Bee4,Symphonie N°7 (BEETHOVEN) - Configuration 4,3,3,3,3,3,3,3,3,3,3,3,0,0,3,0,0,G,2
+1975,Violon 1,Bee1,Symphonie N°7 (BEETHOVEN) - Configuration 1,4,3,2,4,3,4,4,4,4,4,4,0,0,4,0,0,G,2
+1976,Violon 1,Bee2,Symphonie N°7 (BEETHOVEN) - Configuration 2,4,2,3,4,4,3,3,3,2,4,4,0,0,4,0,0,H,2
+1977,Violon 1,Bee3,Symphonie N°7 (BEETHOVEN) - Configuration 3,4,2,4,4,4,3,3,4,4,4,4,0,0,3,0,0,O,3
+1978,Violon 1,Bee4,Symphonie N°7 (BEETHOVEN) - Configuration 4,4,2,3,4,4,4,4,4,4,4,4,0,0,4,0,0,M,3
+1994,Violon 1,Rav1,La Valse (RAVEL) - Configuration 1,4,2,4,4,2,3,3,3,3,3,3,3,3,2,2,0,B,1
+1996,Violon 1,Str1,Symphonie alpestre (STRAUSS) - Configuration 1,4,2,3,3,3,2,2,2,2,5,5,5,5,3,4,3,B,1
+1997,Violon 1,Str2,Symphonie alpestre (STRAUSS) - Configuration 2,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,B,1
+1998,Violon 1,Str3,Symphonie alpestre (STRAUSS) - Configuration 3,4,2,3,4,3,3,3,3,3,3,3,3,3,3,3,3,B,1
+1999,Violon 1,Moz1,Symphonie n°41 (MOZART) - Configuration 1,4,3,2,3,3,3,2,0,2,3,4,0,0,4,0,0,B,1
+2000,Violon 1,Moz2,Symphonie n°41 (MOZART) - Configuration 2,4,3,3,3,3,3,2,0,2,4,4,0,0,4,0,0,G,2
+2001,Violon 1,Moz3,Symphonie n°41 (MOZART) - Configuration 3,4,3,3,3,2,3,2,0,2,4,4,0,0,4,0,0,M,3
+2002,Violon 1,Moz3,Symphonie n°41 (MOZART) - Configuration 3,4,3,3,3,2,3,2,0,2,4,4,0,0,4,0,0,I,2
+2003,Violon 1,Moz4,Symphonie n°41 (MOZART) - Configuration 4,4,3,2,3,2,3,2,0,2,3,4,0,0,4,0,0,B,1
+2028,Violon 1,Moz1,Symphonie n°41 (MOZART) - Configuration 1,4,3,2,3,2,4,4,0,2,3,4,0,0,3,0,0,B,1
+2029,Violon 1,Moz1,Symphonie n°41 (MOZART) - Configuration 1,4,3,2,3,2,4,4,0,2,3,4,0,0,3,0,0,F,2
+2030,Violon 1,Moz2,Symphonie n°41 (MOZART) - Configuration 2,4,3,3,2,2,4,3,0,2,3,4,0,0,3,0,0,E,2
+2031,Violon 1,Moz2,Symphonie n°41 (MOZART) - Configuration 2,4,3,3,2,2,4,3,0,2,3,4,0,0,3,0,0,G,2
+2032,Violon 1,Moz3,Symphonie n°41 (MOZART) - Configuration 3,3,3,2,2,2,3,3,0,3,3,4,0,0,4,0,0,M,3
+2033,Violon 1,Moz3,Symphonie n°41 (MOZART) - Configuration 3,3,3,2,2,2,3,3,0,3,3,4,0,0,4,0,0,L,3
+2034,Violon 1,Moz4,Symphonie n°41 (MOZART) - Configuration 4,3,3,2,2,2,3,3,0,2,3,3,0,0,4,0,0,L,3
+2035,Violon 1,Moz4,Symphonie n°41 (MOZART) - Configuration 4,3,3,2,2,2,3,3,0,3,3,3,0,0,4,0,0,C,1
+2060,Violon 1,Moz1,Symphonie n°41 (MOZART) - Configuration 1,3,3,2,3,3,3,3,0,3,4,4,0,0,4,0,0,B,1
+2061,Violon 1,Moz1,Symphonie n°41 (MOZART) - Configuration 1,4,3,2,3,3,2,3,0,3,3,3,0,0,4,0,0,I,2
+2062,Violon 1,Moz1,Symphonie n°41 (MOZART) - Configuration 1,4,4,3,2,2,4,4,0,4,2,2,0,0,3,0,0,O,3
+2063,Violon 1,Moz2,Symphonie n°41 (MOZART) - Configuration 2,4,3,3,3,2,2,2,0,2,2,2,0,0,2,0,0,A,1
+2064,Violon 1,Moz2,Symphonie n°41 (MOZART) - Configuration 2,4,3,2,2,3,3,3,0,4,3,3,0,0,3,0,0,G,2
+2065,Violon 1,Moz3,Symphonie n°41 (MOZART) - Configuration 3,4,3,3,2,3,3,2,0,2,3,3,0,0,3,0,0,A,1
+2066,Violon 1,Moz3,Symphonie n°41 (MOZART) - Configuration 3,3,4,2,3,3,3,2,0,3,3,3,0,0,2,0,0,H,2
+2067,Violon 1,Moz3,Symphonie n°41 (MOZART) - Configuration 3,3,3,3,3,2,3,3,0,3,3,3,0,0,3,0,0,O,3
+2068,Violon 1,Moz4,Symphonie n°41 (MOZART) - Configuration 4,3,2,3,3,3,4,4,0,3,4,4,0,0,3,0,0,C,1
+2087,Violon 1,Str1,Symphonie alpestre (STRAUSS) - Configuration 1,2,2,2,3,3,2,2,2,2,2,3,3,3,3,2,0,O,3
+2088,Violon 1,Str2,Symphonie alpestre (STRAUSS) - Configuration 2,2,2,2,3,3,3,3,3,3,4,4,4,4,3,2,3,O,3
+2089,Violon 1,Str3,Symphonie alpestre (STRAUSS) - Configuration 3,2,2,2,3,4,3,3,3,3,4,4,4,4,4,4,4,O,3
+2094,Violon 1,Bee1,Symphonie N°7 (BEETHOVEN) - Configuration 1,3,3,2,3,3,3,3,3,2,2,2,0,0,5,0,0,B,1
+2095,Violon 1,Bee2,Symphonie N°7 (BEETHOVEN) - Configuration 2,3,2,2,2,3,3,3,3,2,2,2,0,0,1,0,0,G,2
+2096,Violon 1,Bee3,Symphonie N°7 (BEETHOVEN) - Configuration 3,4,3,3,3,3,4,4,4,4,4,3,0,0,3,0,0,D,2
+2097,Violon 1,Bee4,Symphonie N°7 (BEETHOVEN) - Configuration 4,4,4,4,4,4,4,3,3,3,3,3,0,0,3,0,0,M,3
+2111,Violon 1,Rav1,La Valse (RAVEL) - Configuration 1,4,4,3,4,4,3,3,3,3,3,3,3,3,1,3,0,B,1
+2112,Violon 1,Rav2,La Valse (RAVEL) - Configuration 2,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,0,B,1
+2120,Violon 1,Bee1,Symphonie N°7 (BEETHOVEN) - Configuration 1,3,3,2,3,2,3,3,3,2,3,3,0,0,3,0,0,B,1
+2121,Violon 1,Bee2,Symphonie N°7 (BEETHOVEN) - Configuration 2,3,3,2,2,4,3,3,3,3,2,4,0,0,4,0,0,L,3
+2122,Violon 1,Bee3,Symphonie N°7 (BEETHOVEN) - Configuration 3,3,3,3,3,4,4,4,4,4,3,4,0,0,4,0,0,G,2
+2123,Violon 1,Bee4,Symphonie N°7 (BEETHOVEN) - Configuration 4,3,3,3,3,2,3,3,3,3,4,4,0,0,4,0,0,G,2
+2124,Violon 1,Sch1,Symphonie n°3 (SCHUMANN) - Configuration 1,3,2,2,3,3,3,3,3,3,3,3,0,0,3,0,0,G,2
+2125,Violon 1,Sch2,Symphonie n°3 (SCHUMANN) - Configuration 2,3,2,2,2,2,3,3,3,3,4,4,0,0,3,0,0,G,2
+2126,Violon 1,Sch3,Symphonie n°3 (SCHUMANN) - Configuration 3,3,2,2,2,4,3,3,3,3,4,4,0,0,3,0,0,G,2
+2127,Violon 1,Sch4,Symphonie n°3 (SCHUMANN) - Configuration 4,4,3,3,3,3,3,3,3,3,3,3,0,0,3,0,0,G,2
+2128,Violon 1,Bra1,Symphonie n°2 en Ré Majeur Op 73 (BRAHMS) - Configuration 1,3,3,2,3,2,3,3,3,3,3,3,3,3,3,0,0,M,3
+2129,Violon 1,Bra2,Symphonie n°2 en Ré Majeur Op 73 (BRAHMS) - Configuration 2,3,3,3,3,2,3,3,3,3,4,4,3,3,4,0,0,M,3
+2130,Violon 1,Bra3,Symphonie n°2 en Ré Majeur Op 73 (BRAHMS) - Configuration 3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,0,0,M,3
+2131,Violon 1,Bra4,Symphonie n°2 en Ré Majeur Op 73 (BRAHMS) - Configuration 4,2,3,3,3,3,3,3,3,3,2,3,3,3,4,0,0,M,3
+2141,Violon 1,Str1,Symphonie alpestre (STRAUSS) - Configuration 1,3,3,3,3,3,3,3,3,3,3,4,3,3,3,3,3,G,2
+2142,Violon 1,Str2,Symphonie alpestre (STRAUSS) - Configuration 2,3,3,3,3,3,3,3,3,3,4,4,3,3,4,3,3,G,2
+2143,Violon 1,Str3,Symphonie alpestre (STRAUSS) - Configuration 3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,2,2,G,2
